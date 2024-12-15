@@ -1,0 +1,993 @@
+scientific name,common names,hymenium type,cap shape,gill type,stipe type,spore color,ecological type,edible,URL
+amanita muscaria,"fly agaric,fly amanita",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_muscaria
+psilocybe cubensis,"magic mushroom,shroom,golden halo,golden teacher,cube,gold cap,stropharia cubensis",gills,"convex, flat","adnate, adnexed",ring,purple,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_cubensis
+lentinula edodes,"shiitake,chinquapin,chinese/black forest mushrooms",gills,convex,free,bare,"white, buff",saprotrophic,choice,https://en.wikipedia.org/wiki/Shiitake
+amanita phalloides,death cap,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_phalloides
+cantharellus,chanterelles,ridges,infundibuliform,decurrent,bare,yellow,mycorrhizal,"choice, edible",https://en.wikipedia.org/wiki/Cantharellus
+omphalotus olearius,jack-o'-lantern mushroom,gills,infundibuliform,decurrent,bare,yellow,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Omphalotus_olearius
+gyromitra esculenta,none,smooth,convex,none,bare,"yellow, buff","saprotrophic, mycorrhizal","deadly, choice",https://en.wikipedia.org/wiki/Gyromitra_esculenta
+agaricus bisporus,"cultivated mushroom,chestnut,portobello,portabellini,button,champignon de paris",gills,convex,free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_bisporus
+boletus edulis,"cep,penny bun,porcino,porcini",pores,convex,adnate,bare,brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_edulis
+amanita pantherina,"panther cap,false blusher,panther amanita",gills,flat,free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_pantherina
+tricholoma matsutake,matsutake,gills,convex,adnexed,ring,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Matsutake
+psilocybe semilanceata,liberty cap,gills,"conical, umbonate","adnate, adnexed",bare,"brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_semilanceata
+psilocybe cyanescens,"wavy cap,potent psilocybe",gills,umbonate,"adnate, subdecurrent",bare,"blackish-brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_cyanescens
+armillaria mellea,honey fungus,gills,"convex, flat","adnate, subdecurrent",ring,white,parasitic,"edible, allergic",https://en.wikipedia.org/wiki/Armillaria_mellea
+lingzhi,"ganoderma sichuanense,reishi",pores,offset,none,bare,brown,"saprotrophic, parasitic",unpalatable,https://en.wikipedia.org/wiki/Lingzhi_(mushroom)
+cerioporus squamosus,"dryad's saddle,pheasant's back mushroom",pores,"depressed, offset",decurrent,bare,white,"saprotrophic, parasitic","edible, inedible",https://en.wikipedia.org/wiki/Cerioporus_squamosus
+artomyces pyxidatus,"crown coral,crown-tipped coral fungus",smooth,none,none,none,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Artomyces_pyxidatus
+amanita virosa,"destroying angel,european destroying angel",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_virosa
+cantharellus cibarius,"golden chanterelle,girolle",ridges,infundibuliform,decurrent,bare,"yellow, cream",mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_cibarius
+morchella esculenta,"common morel,morel,yellow morel,true morel,morel mushroom,sponge morel",smooth,"conical, ovate",none,bare,"cream, yellow","mycorrhizal, saprotrophic",choice,https://en.wikipedia.org/wiki/Morchella_esculenta
+omphalotus illudens,eastern jack-o'lantern mushroom,gills,infundibuliform,decurrent,bare,yellow,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Omphalotus_illudens
+amanita fulva,"tawny grisette,orange-brown ringless amanita",gills,umbonate,free,volva,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Amanita_fulva
+amanita porphyria,"grey veiled amanita,porphyry amanita",gills,convex,free,"ring,volva",white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Amanita_porphyria
+tremella fuciformis,"snow fungus,snow ear,silver ear fungus,white jelly mushroom,white cloud ears",smooth,none,none,none,white,parasitic,choice,https://en.wikipedia.org/wiki/Tremella_fuciformis
+aleuria aurantia,orange peel fungus,smooth,none,none,none,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Aleuria_aurantia
+fistulina hepatica,"beefsteak fungus,beefsteak polypore,poor man’s steak,ox tongue,tongue mushroom",pores,"flat, offset",decurrent,bare,pink,parasitic,choice,https://en.wikipedia.org/wiki/Fistulina_hepatica
+fomitopsis betulina,"piptoporus betulinus,birch polypore,birch bracket,razor strop",pores,none,decurrent,none,white,parasitic,inedible,https://en.wikipedia.org/wiki/Fomitopsis_betulina
+agaricus xanthodermus,"yellow-staining agaricus,yellow-staining mushroom,yellow-stainer",gills,convex,free,ring,brown,saprotrophic,"not recommended, poisonous",https://en.wikipedia.org/wiki/Agaricus_xanthodermus
+chlorophyllum rhacodes,"shaggy parasol,c. olivieri,c. brunneum",gills,"umbonate, convex",free,ring,white,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Shaggy_parasol
+scleroderma citrinum,"common earthball,pigskin poison puffball,common earth ball",glebal,none,none,none,purple-black,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Scleroderma_citrinum
+pleurotus ostreatus,"oyster mushroom,oyster fungus,hiratake,pearl oyster mushroom",gills,offset,decurrent,bare,white,"saprotrophic, parasitic",choice,https://en.wikipedia.org/wiki/Pleurotus_ostreatus
+psilocybe mexicana,none,gills,"conical, umbonate",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_mexicana
+psilocybe tampanensis,none,gills,"convex, flat",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_tampanensis
+psilocybe azurescens,none,gills,"convex, umbonate","adnate, sinuate",bare,"blackish-brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_azurescens
+craterellus cornucopioides,"horn of plenty,black chanterelle,black trumpet,trompette de la mort,trompeta de la mort,trumpet of the dead",ridges,infundibuliform,decurrent,bare,"cream, buff",mycorrhizal,choice,https://en.wikipedia.org/wiki/Craterellus_cornucopioides
+laetiporus sulphureus,"sulphur polypore,sulphur shelf,chicken-of-the-woods",pores,flat,none,none,white,"saprotrophic, parasitic",choice,https://en.wikipedia.org/wiki/Laetiporus_sulphureus
+calvatia gigantea,giant puffball,glebal,none,none,none,brown,saprotrophic,"choice, inedible",https://en.wikipedia.org/wiki/Calvatia_gigantea
+agaricus subrufescens,"agaricus blazei,agaricus brasiliensis,agaricus rufotegulis,almond mushroom,almond agaricus,mushroom of the sun,god's mushroom,mushroom of life,royal sun agaricus,jisongrong,himematsutake,princess matsutake",gills,convex,free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_subrufescens
+amanita caesarea,caesar's mushroom,gills,convex,free,"ring,volva",white,mycorrhizal,"choice, not recommended",https://en.wikipedia.org/wiki/Amanita_caesarea
+amanita rubescens,"blusher,a. rubescens,blushing amanita,a. novinupta,new bride blushing amanita,blushing bride",gills,flat,free,ring,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Blusher
+panaeolus cinctulus,"panaeolus subbalteatus,banded mottlegill,weed panaeolus,belted panaeolus,subbs",gills,"campanulate, convex","adnate, adnexed",bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_cinctulus
+lycoperdon perlatum,"common puffball,warted puffball,gem-studded puffball,devil's snuff-box",glebal,convex,none,bare,brown,saprotrophic,"choice, inedible",https://en.wikipedia.org/wiki/Lycoperdon_perlatum
+cortinarius rubellus,deadly webcap,gills,"conical, convex",adnate,bare,"cream, yellow",mycorrhizal,deadly,https://en.wikipedia.org/wiki/Cortinarius_rubellus
+hypholoma capnoides,none,gills,convex,adnate,ring,purple-brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Hypholoma_capnoides
+hypholoma fasciculare,"sulphur tuft,clustered woodlover",gills,convex,adnate,ring,purple-brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Hypholoma_fasciculare
+hypholoma lateritium,"brick cap,chestnut mushroom,cinnamon cap,brick top,red woodlover,kuritake",gills,convex,adnate,bare,purple-brown,saprotrophic,"choice, not recommended",https://en.wikipedia.org/wiki/Hypholoma_lateritium
+lactarius deterrimus,"false saffron milkcap,orange milkcap",gills,"depressed, convex",decurrent,bare,tan,mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_deterrimus
+lactarius deliciosus,"delicious milk cap,saffron milk cap,red pine mushroom",gills,depressed,decurrent,bare,tan,mycorrhizal,choice,https://en.wikipedia.org/wiki/Lactarius_deliciosus
+ganoderma lucidum,"reishi,varnished conk,ling chih",pores,offset,none,bare,brown,parasitic,unpalatable,https://en.wikipedia.org/wiki/Ganoderma_lucidum
+tremella mesenterica,"yellow brain,golden jelly fungus,yellow trembler,witches' butter",smooth,none,none,none,"white, yellow",parasitic,edible,https://en.wikipedia.org/wiki/Tremella_mesenterica
+leccinum scabrum,"rough-stemmed bolete,scaber stalk,birch bolete",pores,convex,adnate,bare,olive,mycorrhizal,edible,https://en.wikipedia.org/wiki/Leccinum_scabrum
+hydnum repandum,"sweet tooth,pig's trotter,wood hedgehog,hedgehog mushroom",teeth,depressed,decurrent,bare,"white, cream",mycorrhizal,choice,https://en.wikipedia.org/wiki/Hydnum_repandum
+pleurotus eryngii,"king trumpet mushroom,french horn mushroom,eryngi,king oyster mushroom,king brown mushroom,boletus of the steppes,trumpet royale,aliʻi oyster",gills,"depressed, offset",decurrent,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Pleurotus_eryngii
+volvariella volvacea,"paddy straw mushroom,straw mushroom",gills,"conical, umbonate",free,volva,salmon,saprotrophic,choice,https://en.wikipedia.org/wiki/Volvariella_volvacea
+russula emetica,"the sickener,emetic russula,vomiting russula",gills,"convex, flat","adnate, free",bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Russula_emetica
+russula xerampelina,"shrimp russula,crab brittlegill,shrimp mushroom",gills,"convex, flat",free,bare,ochre,mycorrhizal,choice,https://en.wikipedia.org/wiki/Russula_xerampelina
+russula vesca,"bare-toothed russula,the flirt",gills,"convex, flat",free,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Russula_vesca
+russula nobilis,"russula mairei,beechwood sickener",gills,convex,free,bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Russula_nobilis
+russula ochroleuca,"brittlegills,common yellow russula,ochre brittlegill",gills,convex,"free, adnexed",bare,white,mycorrhizal,unpalatable,https://en.wikipedia.org/wiki/Russula_ochroleuca
+suillus luteus,"slippery jack,sticky bun",pores,convex,"adnate, subdecurrent",ring,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_luteus
+russula virescens,"green-cracking russula,quilted green russula,green brittlegill",gills,"convex, flat",adnate,bare,"white, yellow",mycorrhizal,choice,https://en.wikipedia.org/wiki/Russula_virescens
+laccaria laccata,"deceiver,lackluster laccaria,waxy laccaria",gills,"convex, flat","adnate, decurrent",bare,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Laccaria_laccata
+sparassis crispa,cauliflower fungus,smooth,none,none,bare,"white, cream",saprotrophic,choice,https://en.wikipedia.org/wiki/Sparassis_crispa
+fomitopsis pinicola,red-belted conk,pores,none,decurrent,none,yellow,saprotrophic,inedible,https://en.wikipedia.org/wiki/Fomitopsis_pinicola
+trametes versicolor,turkey tail,pores,offset,decurrent,none,"white, yellow",saprotrophic,too hard to eat,https://en.wikipedia.org/wiki/Trametes_versicolor
+amanita citrina,"false death cap,citron amanita",gills,flat,free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_citrina
+coprinus comatus,"shaggy ink cap,lawyer's wig,shaggy mane",gills,conical,free,ring,black,saprotrophic,choice,https://en.wikipedia.org/wiki/Coprinus_comatus
+psilocybe quebecensis,none,gills,"convex, conical","adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_quebecensis
+macrolepiota procera,parasol mushroom,gills,umbonate,free,ring,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Macrolepiota_procera
+scleroderma cepa,"smooth earthball,onion earthball",glebal,none,none,none,"white, purple-black",mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Scleroderma_cepa
+laccaria bicolor,none,gills,"convex, depressed",adnate,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Laccaria_bicolor
+rubroboletus satanas,"satan's bolete,devil's bolete,boletus satanas",pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Rubroboletus_satanas
+coprinopsis cinerea,gray shag,gills,conical,free,bare,black,saprotrophic,edible,https://en.wikipedia.org/wiki/Coprinopsis_cinerea
+panaeolus tropicalis,none,gills,"convex, campanulate",adnexed,bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_tropicalis
+amanita gemmata,"gemmed amanita,jonquil amanita",gills,"convex, flat","adnate, adnexed",ring,white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_gemmata
+clitocybe odora,"blue green anise mushroom,aniseed toadstool",gills,flat,decurrent,bare,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Clitocybe_odora
+collybia nuda,"blewit,wood blewit,lepista nuda,clitocybe nuda",gills,"convex, umbonate",emarginate,bare,buff,saprotrophic,choice,https://en.wikipedia.org/wiki/Collybia_nuda
+inosperma erubescens,"i. patouillardii,deadly fibrecap,brick-red tear mushroom,red-staining inocybe",gills,"campanulate, conical",adnate,bare,brown,mycorrhizal,"poisonous, deadly",https://en.wikipedia.org/wiki/Inosperma_erubescens
+calocybe gambosa,st. george's mushroom,gills,convex,sinuate,bare,white,"mycorrhizal, saprotrophic",choice,https://en.wikipedia.org/wiki/Calocybe_gambosa
+russula cyanoxantha,"charcoal burner,variegated russula",gills,"flat, convex",adnate,bare,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Russula_cyanoxantha
+hericium erinaceus,"lion's mane,yamabushitake,bearded tooth fungus,bearded hedgehog",teeth,none,none,none,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Hericium_erinaceus
+helvella crispa,"fluted white elfin saddle,white saddle,elfin saddle,common helvel",smooth,convex,none,bare,white,"saprotrophic, mycorrhizal","not recommended, inedible",https://en.wikipedia.org/wiki/Helvella_crispa
+ganoderma applanatum,"artist's bracket,artist's conk,artist's fungus,bear bread",pores,none,decurrent,none,brown,parasitic,inedible,https://en.wikipedia.org/wiki/Ganoderma_applanatum
+russula amethystina,none,gills,flat,free,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Russula_amethystina
+pluteus cervinus,"deer shield,deer mushroom,fawn mushroom",gills,"flat, umbonate",free,bare,"salmon, reddish-brown",saprotrophic,edible,https://en.wikipedia.org/wiki/Pluteus_cervinus
+pluteus,none,gills,"flat, convex",free,bare,pink,saprotrophic,"edible, psychoactive",https://en.wikipedia.org/wiki/Pluteus
+agaricus impudicus,tufted wood mushroom,gills,convex,free,ring,brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Agaricus_impudicus
+lycoperdon umbrinum,umber-brown puffball,glebal,none,none,none,olive,saprotrophic,edible,https://en.wikipedia.org/wiki/Lycoperdon_umbrinum
+lactarius controversus,poplar milkcap,gills,depressed,decurrent,bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_controversus
+lactifluus vellereus,"lactarius vellereus,fleecy milk-cap",gills,depressed,decurrent,bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactifluus_vellereus
+entoloma sinuatum,"livid entoloma,livid agaric,livid pinkgill,leaden entoloma,lead poisoner",gills,convex,adnate,bare,pink,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Entoloma_sinuatum
+suillus granulatus,"weeping bolete,granulated bolete",pores,"flat, convex","adnate, decurrent",bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_granulatus
+caloboletus calopus,"bitter bolete,bitter beech bolete,scarlet-stemmed bolete",pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Caloboletus_calopus
+tricholoma equestre,"tricholoma flavovirens,man on horseback,yellow knight",gills,flat,adnexed,bare,white,mycorrhizal,"not recommended, poisonous",https://en.wikipedia.org/wiki/Tricholoma_equestre
+tylopilus felleus,"bitter bolete,bitter tylopilus",pores,convex,adnate,bare,"buff, pink",mycorrhizal,"inedible, edible, unpalatable",https://en.wikipedia.org/wiki/Tylopilus_felleus
+paxillus involutus,"brown roll-rim,common roll-rim",gills,depressed,decurrent,bare,brown,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Paxillus_involutus
+amanita cokeri,"coker's amanita,solitary lepidella",gills,convex,free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_cokeri
+coprinopsis atramentaria,"common ink cap,tippler's bane,inky cap",gills,ovate,free,bare,blackish-brown,saprotrophic,"edible, poisonous",https://en.wikipedia.org/wiki/Coprinopsis_atramentaria
+phlebopus marginatus,salmon gum mushroom,pores,convex,seceding,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Phlebopus_marginatus
+boletus aereus,"dark cep,bronze bolete,queen bolete",pores,convex,adnate,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_aereus
+kuehneromyces mutabilis,"pholiota mutabilis,sheathed woodtuft",gills,convex,adnexed,ring,brown,saprotrophic,"choice, not recommended",https://en.wikipedia.org/wiki/Kuehneromyces_mutabilis
+chalciporus piperatus,peppery bolete,pores,convex,adnate,bare,brown,parasitic,"edible, inedible",https://en.wikipedia.org/wiki/Chalciporus_piperatus
+neoboletus luridiformis,"boletus luridiformis,boletus erythropus,scarletina bolete,red foot bolete,dotted stemmed bolete,dotted stem bolete",pores,convex,adnate,bare,olive-brown,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Neoboletus_luridiformis
+leucocoprinus birnbaumii,"flower pot parasol,yellow parasol,flowerpot parasol,plantpot dapperling,flowerpot parasol,plantpot dapperling",gills,"ovate, umbonate",free,ring,white,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Leucocoprinus_birnbaumii
+agaricus moelleri,"flat-top agaricus,inky mushroom,dark scaled mushroom",gills,flat,free,ring,brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Agaricus_moelleri
+amanita calyptroderma,"coccora,coccoli,pacific amanita",gills,"flat, convex",free,"ring,volva",white,mycorrhizal,"choice, not recommended",https://en.wikipedia.org/wiki/Amanita_calyptroderma
+mycena sp.,"mycena,bonnets",gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena
+leccinum aurantiacum,red-capped scaber stalk,pores,convex,adnate,bare,olive,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Leccinum_aurantiacum
+amanita farinosa,"floury amanita,eastern american floury amanita,american floury amanita",gills,"flat, convex",free,bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_farinosa
+hygrophoropsis aurantiaca,false chanterelle,gills,"depressed, infundibuliform",decurrent,bare,"white, cream",saprotrophic,not recommended,https://en.wikipedia.org/wiki/Hygrophoropsis_aurantiaca
+boletus reticulatus,"boletus aestivalis,summer cep",pores,convex,adnate,bare,olive,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_reticulatus
+gliophorus psittacinus,"parrot toadstool,parrot waxcap",gills,convex,adnate,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Gliophorus_psittacinus
+lactarius turpis,ugly milk-cap,gills,depressed,decurrent,bare,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Lactarius_turpis
+lactarius torminosus,"woolly milkcap,bearded milkcap",gills,"convex, depressed",decurrent,bare,"cream, yellow",mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Lactarius_torminosus
+tricholoma argyraceum,none,gills,"convex, flat",adnexed,bare,"white, cream",mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_argyraceum
+tricholoma sulphureum,"stinker,sulphur knight,gas agaric",gills,convex,adnexed,bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Tricholoma_sulphureum
+amanita verna,"fool's mushroom,spring destroying angel",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_verna
+discina gigas,"snow mushroom,snowbank false morel,walnut,giants false morel,snow morel,snow false morel,calf brain,bull nose",smooth,convex,none,bare,"yellow, buff","saprotrophic, mycorrhizal",not recommended,https://en.wikipedia.org/wiki/Discina_gigas
+tapinella atrotomentosa,"velvet roll-rim,velvet-footed tap",gills,depressed,decurrent,bare,buff,saprotrophic,inedible,https://en.wikipedia.org/wiki/Tapinella_atrotomentosa
+tricholomopsis rutilans,"plums and custard,red-haired agaric",gills,convex,adnate,bare,cream,saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Tricholomopsis_rutilans
+gymnopilus junonius,spectacular rustgill,gills,convex,adnate,ring,reddish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Gymnopilus_junonius
+cortinarius austrovenetus,"dermocybe austroveneta,green skin-head,green dermocybe",gills,convex,adnate,cortina,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Cortinarius_austrovenetus
+calocera cornea,none,smooth,none,none,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Calocera_cornea
+calvatia booniana,western giant puffball,glebal,none,none,none,"white, brown",saprotrophic,"choice, inedible",https://en.wikipedia.org/wiki/Calvatia_booniana
+schizophyllum commune,"gillies,split-gills,split-gill mushroom",gills,none,none,bare,white,"saprotrophic, parasitic",unknown,https://en.wikipedia.org/wiki/Schizophyllum_commune
+suillus bovinus,"jersey cow mushroom,bovine bolete",pores,convex,"adnate, decurrent",bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Suillus_bovinus
+psilocybe baeocystis,none,gills,"convex, conical","adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_baeocystis
+agaricus arvensis,horse mushroom,gills,convex,free,ring,"brown, blackish-brown",saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_arvensis
+tricholoma magnivelare,"matsutake,white matsutake,ponderosa mushroom,pine mushroom,american matsutake",gills,convex,"adnate, adnexed",ring,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Tricholoma_magnivelare
+agaricus campestris,"field mushroom,meadow mushroom",gills,convex,free,bare,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_campestris
+galerina marginata,"funeral bell,deadly skullcap,autumn skullcap,deadly galerina",gills,convex,"adnexed, adnate","ring, bare",brown,saprotrophic,deadly,https://en.wikipedia.org/wiki/Galerina_marginata
+conocybe rugosa,none,gills,"conical, flat",adnexed,ring,"brown, reddish-brown",saprotrophic,deadly,https://en.wikipedia.org/wiki/Conocybe_rugosa
+'candy cap',"l. camphoratus,l. rubidus",gills,"convex, flat",decurrent,bare,"white, yellow",mycorrhizal,choice,https://en.wikipedia.org/wiki/Candy_cap
+chroogomphus vinicolor,"wine-cap chroogomphus,pine spike",gills,"convex, depressed","decurrent, adnate","bare, ring",black,"mycorrhizal, parasitic",edible,https://en.wikipedia.org/wiki/Chroogomphus_vinicolor
+inocybe aeruginascens,none,gills,"conical, convex","adnate, emarginate",bare,tan,mycorrhizal,psychoactive,https://en.wikipedia.org/wiki/Inocybe_aeruginascens
+stropharia rugosoannulata,"wine cap stropharia,garden giant,burgundy mushroom,king stropharia,wine-red stropharia",gills,"convex, flat",adnate,ring,purple-brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Stropharia_rugosoannulata
+chlorophyllum molybdites,"green-spored parasol,false parasol,green-spored lepiota,vomiter",gills,flat,free,ring,green,saprotrophic,"not recommended, poisonous",https://en.wikipedia.org/wiki/Chlorophyllum_molybdites
+daldinia concentrica,"king alfred's cake,cramp balls,coal fungus",glebal,none,none,none,black,saprotrophic,inedible,https://en.wikipedia.org/wiki/Daldinia_concentrica
+conocybe tenera,"brown dunce cap,common cone head",gills,"conical, convex",adnate,bare,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Conocybe_tenera
+conocybula cyanopus,none,gills,"conical, convex",adnate,bare,brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Conocybula_cyanopus
+collybia personata,"field blewit,blue-leg",gills,"convex, flat",emarginate,bare,pink,saprotrophic,choice,https://en.wikipedia.org/wiki/Collybia_personata
+suillus grevillei,"greville's bolete,tamarack jack,larch bolete",pores,convex,adnate,ring,ochre,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_grevillei
+inocybe hystrix,none,gills,"convex, flat",adnate,"bare, cortina",brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Inocybe_hystrix
+amanita velosa,"springtime amanita,bittersweet orange ringless amanita",gills,convex,free,volva,white,mycorrhizal,"choice, not recommended",https://en.wikipedia.org/wiki/Amanita_velosa
+amanita ocreata,"death angel,destroying angel,angel of death,western north american destroying angel",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_ocreata
+phlegmacium ponderosum,ponderous cortinarius,gills,convex,adnate,bare,yellow,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Phlegmacium_ponderosum
+agaricus subrutilescens,wine-colored agaricus,gills,convex,free,ring,brown,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Agaricus_subrutilescens
+clitocybe dealbata,"ivory funnel,sweating mushroom,sweat producing clitocybe",gills,depressed,adnate,bare,white,saprotrophic,"poisonous, deadly",https://en.wikipedia.org/wiki/Clitocybe_dealbata
+leratiomyces ceres,"chip cherry,redlead roundhead,stropharia aurantiaca",gills,"convex, flat",adnate,ring,purple-brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Leratiomyces_ceres
+rubroboletus pulcherrimus,"boletus pulcherrimus,red-pored bolete",pores,convex,adnate,bare,olive-brown,mycorrhizal,"poisonous, deadly",https://en.wikipedia.org/wiki/Rubroboletus_pulcherrimus
+hebeloma crustuliniforme,"poison pie,fairy cakes",gills,umbonate,adnate,bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Hebeloma_crustuliniforme
+gymnopilus luteofolius,yellow-gilled gymnopilus,gills,convex,adnate,ring,reddish-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Gymnopilus_luteofolius
+calvatia craniiformis,"brain puffball,skull-shaped puffball",glebal,none,none,none,"yellow-brown, olive-brown","saprotrophic, mycorrhizal","edible, inedible",https://en.wikipedia.org/wiki/Calvatia_craniiformis
+tricholoma pardinum,"spotted tricholoma,tiger tricholoma,tigertop,leopard knight,dirty trich",gills,convex,free,bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Tricholoma_pardinum
+amanita parvipantherina,asian small panther amanita,gills,convex,free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_parvipantherina
+amanita liquii,dark-faced ringless amanita,gills,convex,free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_liquii
+amanita orientifulva,asian orange-brown ringless amanita,gills,umbonate,free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_orientifulva
+panaeolus cyanescens,none,gills,convex,adnate,bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_cyanescens
+panaeolus acuminatus,panaeolus rickenii,gills,convex,adnexed,bare,black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Panaeolus_acuminatus
+panaeolus africanus,none,gills,convex,"adnexed, adnate",bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_africanus
+panaeolus antillarum,none,gills,convex,adnexed,bare,black,saprotrophic,edible,https://en.wikipedia.org/wiki/Panaeolus_antillarum
+panaeolus bisporus,copelandia bisporus,gills,convex,adnexed,bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_bisporus
+panaeolus cambodginiensis,none,gills,convex,adnexed,bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_cambodginiensis
+panaeolus olivaceus,none,gills,"campanulate, convex","adnexed, adnate",bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_olivaceus
+panaeolus fimicola,none,gills,convex,adnexed,bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_fimicola
+pluteus salicinus,none,gills,"convex, flat",free,bare,pink,saprotrophic,"psychoactive, edible",https://en.wikipedia.org/wiki/Pluteus_salicinus
+amanita brunnescens,"brown american star-footed amanita,cleft-footed amanita",gills,convex,free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_brunnescens
+agaricus augustus,the prince,gills,convex,free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_augustus
+neolentinus ponderosus,"giant sawgill,ponderous lentinus",gills,"convex, depressed",decurrent,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Neolentinus_ponderosus
+agaricus bitorquis,"torq,banded agaric,spring agaric,banded agaricus,urban agaricus,pavement mushroom",gills,"convex, flat",free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_bitorquis
+psilocybe ovoideocystidiata,none,gills,"convex, umbonate",adnate,ring,"blackish-brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_ovoideocystidiata
+deconica inquilina,none,gills,"convex, conical","adnate, sinuate",cortina,purple-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Deconica_inquilina
+lactarius rubrilacteus,bleeding milkcap,gills,convex,decurrent,bare,cream,mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_rubrilacteus
+conocybe apala,"conocybe lactea,conocybe albipes,white dunce cap,milky conecap",gills,conical,"adnexed, free",bare,"brown, reddish-brown",saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_apala
+panaeolus foenisecii,"mower's mushroom,haymaker,haymaker's panaeolus,brown hay mushroom",gills,convex,adnexed,bare,blackish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Panaeolus_foenisecii
+psilocybe caerulipes,blue-foot,gills,"convex, umbonate","adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_caerulipes
+armillaria luteobubalina,australian honey fungus,gills,"convex, flat",sinuate,ring,white,parasitic,edible,https://en.wikipedia.org/wiki/Armillaria_luteobubalina
+omphalotus nidiformis,ghost fungus,gills,infundibuliform,decurrent,bare,white,"saprotrophic, parasitic",poisonous,https://en.wikipedia.org/wiki/Omphalotus_nidiformis
+neolentinus lepideus,"lentinus lepideus,scaly sawgill,scaly lentinus,train wrecker",gills,"convex, flat","adnate, decurrent",ring,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Neolentinus_lepideus
+chondrostereum purpureum,silver leaf,smooth,none,none,none,white,"saprotrophic, parasitic",unknown,https://en.wikipedia.org/wiki/Chondrostereum_purpureum
+gymnopus dryophilus,collybia dryophila,gills,convex,"adnexed, free",bare,"white, cream",saprotrophic,"not recommended, unknown",https://en.wikipedia.org/wiki/Gymnopus_dryophilus
+amanita subjunquillea,east asian death cap,gills,convex,free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_subjunquillea
+heterobasidion annosum,annosus root rot,pores,offset,decurrent,bare,white,parasitic,inedible,https://en.wikipedia.org/wiki/Heterobasidion_annosum
+amanita arocheae,latin american death cap,gills,convex,free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_arocheae
+echinodontium tinctorium,"indian paint fungus,toothed conk",teeth,none,none,none,white,parasitic,inedible,https://en.wikipedia.org/wiki/Echinodontium_tinctorium
+oxyporus corticola,boring poria,pores,none,none,none,white,"saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Oxyporus_corticola
+stereum hirsutum,"false turkey tail,hairy stereum,hairy curtain crust",smooth,offset,decurrent,none,white,"saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Stereum_hirsutum
+gloeophyllum sepiarium,rusty gilled polypore,gills,none,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Gloeophyllum_sepiarium
+aurantiporus fissilis,none,pores,none,decurrent,none,white,"parasitic, saprotrophic",inedible,https://en.wikipedia.org/wiki/Aurantiporus_fissilis
+bjerkandera adusta,"smoky polypore,smoky bracket",pores,none,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Bjerkandera_adusta
+hericium coralloides,"coral tooth fungus,comb coral mushroom",teeth,none,none,none,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Hericium_coralloides
+fuscoporia gilva,oak conk,pores,none,none,none,yellow,"parasitic, saprotrophic",unknown,https://en.wikipedia.org/wiki/Fuscoporia_gilva
+porodaedalea pini,pine conk,pores,none,none,bare,brown,parasitic,inedible,https://en.wikipedia.org/wiki/Porodaedalea_pini
+cerrena unicolor,mossy maze polypore,pores,offset,none,none,white,"saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Cerrena_unicolor
+cryptoporus volvatus,"veiled polypore,cryptic globe fungus",pores,none,none,none,pink,"saprotrophic, parasitic",too hard to eat,https://en.wikipedia.org/wiki/Cryptoporus_volvatus
+daedaleopsis confragosa,"thin walled maze polypore,blushing bracket",pores,none,decurrent,none,white,parasitic,inedible,https://en.wikipedia.org/wiki/Daedaleopsis_confragosa
+trametes elegans,none,pores,offset,decurrent,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Trametes_elegans
+phaeolus schweinitzii,"velvet-top fungus,dyer's polypore,dyer's mazegill,pine dye polypore",pores,offset,decurrent,bare,"white, yellow","saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Phaeolus_schweinitzii
+pycnoporus sanguineus,none,pores,convex,decurrent,bare,white,"saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Pycnoporus_sanguineus
+trichaptum abietinum,none,pores,flat,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Trichaptum_abietinum
+trichaptum biforme,"violet-pored bracket fungus,purple tooth,violet-toothed polypore",teeth,flat,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Trichaptum_biforme
+clitocybe nebularis,"lepista nebularis,clouded agaric,cloudy clitocybe,cloud funnel",gills,"convex, flat",decurrent,bare,cream,saprotrophic,edible,https://en.wikipedia.org/wiki/Clitocybe_nebularis
+lactarius scrobiculatus,scrobiculate milk cap,gills,depressed,decurrent,bare,cream,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_scrobiculatus
+tyromyces chioneus,white cheese polypore,pores,none,none,none,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Tyromyces_chioneus
+ganoderma tsugae,hemlock varnish shelf,pores,flat,adnate,bare,brown,"saprotrophic, parasitic",unpalatable,https://en.wikipedia.org/wiki/Ganoderma_tsugae
+inonotus hispidus,shaggy bracket,pores,none,none,none,brown,parasitic,inedible,https://en.wikipedia.org/wiki/Inonotus_hispidus
+pleurotus dryinus,veiled oyster mushroom,gills,offset,decurrent,ring,white,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Pleurotus_dryinus
+amanita ovoidea,"european white egg,bearded amanita,european egg amidella",gills,"convex, flat",free,"ring,volva","white, cream",mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Amanita_ovoidea
+panaeolus papilionaceus var. parvisporus,none,gills,convex,adnexed,bare,black,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Panaeolus_papilionaceus_var._parvisporus
+panaeolus papilionaceus,petticoat mottlegill,gills,convex,adnexed,bare,black,saprotrophic,inedible,https://en.wikipedia.org/wiki/Panaeolus_papilionaceus
+panaeolus semiovatus var. semiovatus,"panaeolus semiovatus,anellaria separata,shiny mottlegill,ringed panaeolus,common fungus of the feces variety,egghead mottlegill",gills,convex,adnexed,ring,black,saprotrophic,inedible,https://en.wikipedia.org/wiki/Panaeolus_semiovatus_var._semiovatus
+panaeolus semiovatus var. phalaenarum,none,gills,convex,adnexed,ring,black,saprotrophic,edible,https://en.wikipedia.org/wiki/Panaeolus_semiovatus_var._phalaenarum
+marasmius oreades,"fairy ring mushroom,fairy ring champignon,scotch bonnet",gills,"convex, umbonate",adnexed,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Marasmius_oreades
+porphyrellus porphyrosporus,dusky bolete,pores,convex,adnate,bare,"purple, brown",mycorrhizal,inedible,https://en.wikipedia.org/wiki/Porphyrellus_porphyrosporus
+inocybe tricolor,none,gills,"flat, umbonate",adnate,bare,"tan, yellow",mycorrhizal,psychoactive,https://en.wikipedia.org/wiki/Inocybe_tricolor
+pluteus leoninus,lion shield,gills,convex,free,bare,salmon,saprotrophic,edible,https://en.wikipedia.org/wiki/Pluteus_leoninus
+baorangia bicolor,"two-colored bolete,red and yellow bolete",pores,convex,adnate,bare,olive,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Baorangia_bicolor
+hydnellum peckii,none,teeth,"depressed, convex",none,none,brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Hydnellum_peckii
+cortinarius flexipes,pelargonium webcap,gills,umbonate,adnate,cortina,reddish-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cortinarius_flexipes
+gymnopilus aeruginosus,magic blue gym,gills,convex,"adnexed, adnate",ring,yellow-orange,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Gymnopilus_aeruginosus
+gymnopilus purpuratus,none,gills,"convex, umbonate","adnate, adnexed",bare,yellow-orange,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Gymnopilus_purpuratus
+psilocybe atlantis,none,gills,"conical, convex",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_atlantis
+psilocybe zapotecorum,none,gills,"conical, convex","adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_zapotecorum
+psilocybe aucklandiae,none,gills,"conical, umbonate",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_aucklandiae
+apioperdon,"pear-shaped puffball,stump puffball,lycoperdon pyriforme",glebal,none,none,none,"white, olive-brown",saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Apioperdon
+psilocybe subaeruginosa,none,gills,"conical, umbonate","adnate, adnexed",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_subaeruginosa
+psilocybe subaeruginascens,none,gills,"conical, convex","adnate, adnexed",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_subaeruginascens
+inocybe corydalina var. corydalina,greenflush fibrecap,gills,"conical, convex",adnate,bare,brown,mycorrhizal,psychoactive,https://en.wikipedia.org/wiki/Inocybe_corydalina_var._corydalina
+psilocybe strictipes,none,gills,"conical, campanulate","adnate, subdecurrent",bare,"brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_strictipes
+paragyromitra infula,"hooded false morel,elfin saddle",smooth,convex,none,bare,"yellow, buff","saprotrophic, mycorrhizal","deadly, choice",https://en.wikipedia.org/wiki/Paragyromitra_infula
+gymnopilus sapineus,"scaly rustgill,common and boring gymnopilus",gills,convex,adnate,ring,reddish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Gymnopilus_sapineus
+wolfiporia extensa,"poria cocos,hoelen,poria,tuckahoe,china root,fu ling,matsuhodo,tuckahoe,fu-ling",pores,none,none,none,white,"saprotrophic, parasitic","inedible, edible",https://en.wikipedia.org/wiki/Wolfiporia_extensa
+lepiota brunneoincarnata,deadly dapperling,gills,campanulate,free,bare,white,mycorrhizal,"poisonous, deadly",https://en.wikipedia.org/wiki/Lepiota_brunneoincarnata
+clitocybe rivulosa,"false champignon,fool's funnel,sweating mushroom",gills,depressed,"adnate, decurrent",bare,white,saprotrophic,"poisonous, deadly",https://en.wikipedia.org/wiki/Clitocybe_rivulosa
+cortinarius caperatus,none,gills,"convex, umbonate",adnate,ring,"ochre, brown",mycorrhizal,choice,https://en.wikipedia.org/wiki/Cortinarius_caperatus
+roridomyces roridus,"dripping bonnet,slippery mycena",gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Roridomyces_roridus
+mycena galopus,"milky mycena,milking bonnet,milk-drop mycena",gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_galopus
+mycena cyanorrhiza,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_cyanorrhiza
+xerocomellus chrysenteron,"boletus chrysenteron,xerocomus chrysenteron,red cracking bolete",pores,"convex, flat",none,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Xerocomellus_chrysenteron
+lactarius uvidus,purple staining milk cap,gills,"flat, depressed",subdecurrent,bare,white,mycorrhizal,"unknown, poisonous",https://en.wikipedia.org/wiki/Lactarius_uvidus
+agaricus bernardii,"salt-loving agaricus,salty mushroom",gills,"flat, convex",free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_bernardii
+agaricus silvicola,"wood mushroom,woodland agaricus",gills,"convex, flat",free,ring,brown,saprotrophic,"edible, allergic",https://en.wikipedia.org/wiki/Agaricus_silvicola
+turbinellus floccosus,"scaly vase,shaggy,scaly,woolly chanterelle,gomphus floccosus",ridges,infundibuliform,decurrent,bare,brown,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Turbinellus_floccosus
+clitopilus prunulus (the miller),"clitopilus prunulus,the miller,sweetbread mushroom",gills,convex,decurrent,bare,pink,saprotrophic,"choice, not recommended",https://en.wikipedia.org/wiki/Clitopilus_prunulus
+entoloma rhodopolium,wood pinkgill,gills,convex,adnate,bare,pink,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Entoloma_rhodopolium
+suillellus luridus,"boletus luridus,lurid bolete",pores,convex,adnate,bare,olive-brown,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Suillellus_luridus
+amanita smithiana,smith's amanita,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_smithiana
+ramaria formosa,"pinkish coral mushroom,salmon coral,beautiful clavaria,handsome clavaria,yellow-tipped-,pink coral fungus",smooth,none,none,bare,yellow,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Ramaria_formosa
+rubroboletus eastwoodiae,satan's bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_eastwoodiae
+lactarius helvus,fenugreek milkcap,gills,depressed,decurrent,bare,tan,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Lactarius_helvus
+russula subnigricans,"rank russula,nise-kurohatsu",gills,convex,free,bare,white,mycorrhizal,"poisonous, deadly",https://en.wikipedia.org/wiki/Russula_subnigricans
+scleroderma areolatum,none,glebal,none,none,none,"purple-black, olive",mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Scleroderma_areolatum
+mycena leaiana,"orange mycena,lea's mycena",gills,conical,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_leaiana
+gyromitra caroliniana,"carolina false morel,big red",smooth,convex,none,bare,yellow,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Gyromitra_caroliniana
+boletus barrowsii,white king bolete,pores,convex,adnate,bare,olive,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_barrowsii
+meripilus giganteus,"giant polypore,black-staining polypore",pores,offset,decurrent,none,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Meripilus_giganteus
+mycetinis alliaceus,"marasmius alliaceus,garlic parachute",gills,convex,adnate,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Mycetinis_alliaceus
+porpolomopsis lewelliniae,mauve splitting wax-cap,gills,umbonate,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Porpolomopsis_lewelliniae
+hygrocybe aurantipes,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Hygrocybe_aurantipes
+psilocybe guilartensis,none,gills,"conical, convex",adnexed,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_guilartensis
+melanoleuca,none,gills,"convex, depressed","adnate, adnexed",bare,"white, cream",saprotrophic,"edible, unknown",https://en.wikipedia.org/wiki/Melanoleuca
+entoloma hochstetteri,"blue pinkgill,sky-blue mushroom",gills,convex,adnate,bare,pink,saprotrophic,unknown,https://en.wikipedia.org/wiki/Entoloma_hochstetteri
+sarcodon imbricatus,"shingled hedgehog,scaly hedgehog",teeth,flat,adnate,bare,brown,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Sarcodon_imbricatus
+leotia atrovirens,none,smooth,convex,none,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leotia_atrovirens
+leotia viscosa,"chicken lips,jelly baby,green jelly drops",smooth,convex,none,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leotia_viscosa
+helvella lacunosa,"slate grey saddle,fluted black elfin saddle,elfin saddle",smooth,convex,none,bare,white,"saprotrophic, mycorrhizal",not recommended,https://en.wikipedia.org/wiki/Helvella_lacunosa
+caloboletus radicans,"rooting bolete,whitish bolete",pores,convex,adnexed,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Caloboletus_radicans
+russula claroflava,"yellow russula,yellow swamp russula,yellow swamp brittlegill",gills,convex,free,bare,ochre,mycorrhizal,choice,https://en.wikipedia.org/wiki/Russula_claroflava
+hygrocybe coccinea,"scarlet hood,scarlet waxcap,righteous red waxy cap",gills,convex,adnate,bare,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Hygrocybe_coccinea
+rubroboletus legaliae,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Rubroboletus_legaliae
+amanita excelsa var. spissa,grey spotted amanita,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Amanita_excelsa_var._spissa
+gymnopilus liquiritiae,none,gills,convex,"adnexed, adnate",bare,yellow-orange,saprotrophic,inedible,https://en.wikipedia.org/wiki/Gymnopilus_liquiritiae
+psilocybe galindoi,none,gills,"conical, campanulate",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_galindoi
+psilocybe fimetaria,none,gills,"convex, umbonate","adnexed, free",cortina,"blackish-brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_fimetaria
+psilocybe graveolens,none,gills,"convex, umbonate",adnexed,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_graveolens
+amanita echinocephala,"a. solitaria,solitary amanita,european solitary lepidella",gills,"convex, flat",free,ring,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Amanita_echinocephala
+echinoderma asperum,"lepiota aspera,freckled dapperling",gills,"ovate, campanulate",free,ring,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Echinoderma_asperum
+russula brevipes,"short-stemmed russula,stubby brittlegill",gills,"flat, infundibuliform",decurrent,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Russula_brevipes
+russula aeruginea,"grass-green russula,tacky green russula,green russula",gills,"convex, depressed","adnexed, adnate",bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Russula_aeruginea
+russula aurea,gilded brittlegill,gills,"convex, depressed","free, adnexed",bare,"white, cream",mycorrhizal,edible,https://en.wikipedia.org/wiki/Russula_aurea
+hygrocybe austropratensis,none,gills,convex,decurrent,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Hygrocybe_austropratensis
+calocybe carnea,"pink fairhead,pink domecap",gills,"convex, flat","adnexed, sinuate",bare,white,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Calocybe_carnea
+lactarius pyrogalus,fire-milk lactarius,gills,flat,decurrent,bare,ochre,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_pyrogalus
+gyrodon lividus,alder bolete,pores,flat,decurrent,bare,"olive, brown",mycorrhizal,edible,https://en.wikipedia.org/wiki/Gyrodon_lividus
+panaeolina castaneifolia,none,gills,"campanulate, convex","adnexed, adnate",bare,blackish-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Panaeolina_castaneifolia
+cortinarius semisanguineus,"surprise webcap,red-gilled webcap",gills,"campanulate, umbonate","adnate, sinuate",cortina,reddish-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cortinarius_semisanguineus
+gomphidius roseus,"rosy spike-cap,pink gomphidius",gills,"flat, convex",decurrent,ring,blackish-brown,parasitic,edible,https://en.wikipedia.org/wiki/Gomphidius_roseus
+lactarius subdulcis,"mild milkcap,beech milk cap",gills,convex,adnate,bare,cream,mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_subdulcis
+cystoderma amianthinum,"saffron parasol,saffron powder-cap,earthy powder-cap",gills,"convex, umbonate",adnexed,ring,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Cystoderma_amianthinum
+russula atropurpurea,"blackish purple russula,purple brittlegill",gills,"convex, flat",adnexed,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Russula_atropurpurea
+lactifluus piperatus,"lactarius piperatus,blancaccio",gills,convex,decurrent,bare,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Lactifluus_piperatus
+lactarius blennius,"slimy milkcap,beech milkcap",gills,convex,"decurrent, adnate",bare,cream,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_blennius
+boletus pinophilus,"pine bolete,pinewood king bolete",pores,convex,adnexed,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_pinophilus
+gomphidius glutinosus,"slimy spike-cap,hideous gomphidius,glutinous gomphidius",gills,"flat, convex",decurrent,ring,blackish-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Gomphidius_glutinosus
+hydnellum suaveolens,fragrant hydnellum mushroom,teeth,flat,decurrent,bare,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Hydnellum_suaveolens
+hydnellum caeruleum,"blue-gray hydnellum,blue-green hydnellum,blue spine,blue tooth,bluish tooth",teeth,flat,decurrent,bare,brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Hydnellum_caeruleum
+inocybe geophylla,"earthy inocybe,common white inocybe,white fibercap",gills,"umbonate, conical",adnexed,bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Inocybe_geophylla
+clathrus archeri,"octopus stinkhorn,devil's fingers",glebal,none,none,none,olive-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clathrus_archeri
+leucopaxillus gentianeus,"bitter false funnelcap,bitter brown leucopaxillus",gills,"convex, flat",adnate,bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Leucopaxillus_gentianeus
+craterellus tubaeformis,"winter chanterelle,yellowfoot,winter mushroom,funnel chanterelle",ridges,infundibuliform,decurrent,bare,"cream, salmon",mycorrhizal,choice,https://en.wikipedia.org/wiki/Craterellus_tubaeformis
+craterellus lutescens,"cantharellus lutescens,cantharellus xanthopus,cantharellus aurora,yellow foot,camagroc",ridges,infundibuliform,decurrent,bare,"cream, salmon",mycorrhizal,edible,https://en.wikipedia.org/wiki/Craterellus_lutescens
+psilocybe liniformans var. americana,none,gills,convex,adnexed,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_liniformans_var._americana
+xerula megalospora,none,gills,"convex, umbonate",adnexed,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Xerula_megalospora
+psilocybe caerulescens,landslide mushroom,gills,convex,"adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_caerulescens
+alloclavaria purpurea,"purple coral,purple fairy club",smooth,none,none,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Alloclavaria_purpurea
+leucoagaricus leucothites,"smooth parasol,woman on motorcycle,ma'am on motorcycle,white dapperling,white agaricus mushroom",gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_leucothites
+trametes gibbosa,lumpy bracket,pores,offset,decurrent,none,"white, cream",saprotrophic,inedible,https://en.wikipedia.org/wiki/Trametes_gibbosa
+lentinellus cochleatus,aniseed cockleshell,gills,infundibuliform,decurrent,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Lentinellus_cochleatus
+psilocybe mescaleroensis,none,gills,"conical, convex","adnate, adnexed",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_mescaleroensis
+psilocybe meridionalis,none,gills,"conical, convex","adnate, adnexed",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_meridionalis
+stropharia ambigua,questionable stropharia,gills,convex,adnate,ring,purple-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Stropharia_ambigua
+cortinarius collinitus,belted slimy cortinarius,gills,"convex, flat",adnexed,cortina,reddish-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cortinarius_collinitus
+deconica montana,mountain moss psilocybe,gills,convex,adnate,bare,purple-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Deconica_montana
+albatrellus subrubescens,none,pores,"convex, flat",decurrent,bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Albatrellus_subrubescens
+psilocybe stuntzii,"stuntz's blue legs,blue ringers",gills,"convex, umbonate","adnate, sinuate",ring,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_stuntzii
+psilocybe cyanofibrillosa,"rhododendron psilocybe,blue-haired psilocybe",gills,"convex, conical","adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_cyanofibrillosa
+gymnopilus luteus,yellow gymnopilus,gills,convex,"adnexed, adnate",ring,yellow-orange,saprotrophic,"inedible, psychoactive",https://en.wikipedia.org/wiki/Gymnopilus_luteus
+gymnopilus validipes,none,gills,convex,"adnexed, adnate",ring,yellow-orange,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Gymnopilus_validipes
+psilocybe samuiensis,none,gills,"conical, umbonate",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_samuiensis
+agaricus abruptibulbus,"abruptly-bulbous agaricus,flat-bulb mushroom",gills,"convex, flat",free,ring,brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_abruptibulbus
+podaxis pistillaris,desert shaggy mane,gills,conical,seceding,ring,"buff, reddish-brown",saprotrophic,edible,https://en.wikipedia.org/wiki/Podaxis_pistillaris
+agaricus pocillator,none,gills,"convex, flat",free,ring,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Agaricus_pocillator
+gymnopilus luteoviridis,none,gills,convex,"adnexed, adnate",ring,yellow-orange,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Gymnopilus_luteoviridis
+agaricus pattersoniae,none,gills,"convex, flat",free,ring,brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_pattersoniae
+bovista plumbea,"tumbling puffball,tumbleball,paltry puffball",glebal,none,none,none,brown,saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Bovista_plumbea
+fomitopsis quercina,"thick-walled maze polypore,maze-gill fungus,oak-loving maze polypore,oak mazegill",pores,none,decurrent,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Fomitopsis_quercina
+amanita chrysoblema yellow-orange variant,none,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_muscaria_var._guessowii
+amanita persicina,peach-colored fly agaric,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_persicina
+xerocomus subtomentosus,"suede bolete,brown and yellow bolete,boring brown bolete,yellow-cracked bolete",pores,convex,seceding,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Xerocomus_subtomentosus
+psilocybe plutonia,none,gills,umbonate,adnexed,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_plutonia
+mythicomyces corneipes,mythicomyces,gills,"conical, convex","adnate, adnexed",bare,purple-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mythicomyces
+crepidotus versutus,evasive agaric,gills,convex,none,none,reddish-brown,saprotrophic,allergenic,https://en.wikipedia.org/wiki/Crepidotus_versutus
+geastrum fornicatum,"acrobatic earthstar,arched earthstar",glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_fornicatum
+lactifluus volemus,"lactarius volemus,weeping milk cap,bradley",gills,convex,"adnate, decurrent",bare,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Lactifluus_volemus
+gomphus clavatus,"pig's ears,violet chanterelle",ridges,infundibuliform,decurrent,bare,yellow,mycorrhizal,"edible, allergic",https://en.wikipedia.org/wiki/Gomphus_clavatus
+ileodictyon cibarium,"basket fungus,white basket fungus",glebal,none,none,none,olive-brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Ileodictyon_cibarium
+lactarius glyciosmus,coconut scented milk cap,gills,convex,decurrent,bare,cream,mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_glyciosmus
+baeospora myosura,conifercone cap,gills,convex,adnexed,bare,"white, cream",saprotrophic,unknown,https://en.wikipedia.org/wiki/Baeospora_myosura
+tricholoma ustaloides,none,gills,convex,"adnexed, adnate",bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Tricholoma_ustaloides
+cortinarius mucosus,"orange webcap,slimy cortinarius",gills,conical,adnexed,cortina,ochre,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cortinarius_mucosus
+leucocoprinus cepistipes,onion-stalk parasol,gills,"convex, umbonate",free,ring,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Leucocoprinus_cepistipes
+lactarius tabidus,"lactarius theiogalus,lactarius chrysorheus,lactarius hepaticus,birch milkcap",gills,convex,decurrent,bare,cream,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_tabidus
+lactarius vietus,grey milkcap,gills,"convex, infundibuliform","decurrent, adnate",bare,"white, yellow",mycorrhizal,"inedible, edible",https://en.wikipedia.org/wiki/Lactarius_vietus
+lysurus periphragmoides,"stalked lattice stinkhorn,chambered stinkhorn",smooth,flat,none,volva,olive-brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Lysurus_periphragmoides
+cyathus stercoreus,"dung-loving bird's nest,dung bird's nest",glebal,none,none,none,"blackish-brown, black",saprotrophic,inedible,https://en.wikipedia.org/wiki/Cyathus_stercoreus
+phlegmacium triumphans,"birch webcap,yellow girdled webcap",gills,convex,adnate,ring,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Phlegmacium_triumphans
+lactarius pallidus,pale milkcap,gills,"convex, depressed",decurrent,bare,ochre,mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_pallidus
+cortinarius rotundisporus,elegant blue webcap,gills,convex,adnate,bare,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Cortinarius_rotundisporus
+lactarius quietus,"oak milkcap,oakbug milkcap,southern milkcap",gills,"convex, flat",decurrent,bare,cream,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_quietus
+neofavolus alveolaris,hexagonal-pored polypore,pores,offset,decurrent,bare,white,saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Neofavolus_alveolaris
+inocybe lacera,torn fibrecap,gills,"convex, umbonate",adnexed,bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Inocybe_lacera
+tricholoma terreum,"grey knight,dirty tricholoma",gills,"convex, flat",adnexed,bare,"white, cream",mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_terreum
+ampulloclitocybe clavipes,"club-foot,club-footed clitocybe",gills,"convex, depressed",decurrent,bare,white,"saprotrophic, mycorrhizal","edible, not recommended",https://en.wikipedia.org/wiki/Ampulloclitocybe_clavipes
+cortinarius violaceus,"violet webcap,violet cort",gills,convex,adnate,bare,reddish-brown,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Cortinarius_violaceus
+agaricus semotus,none,gills,"convex, flat",free,ring,brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Agaricus_semotus
+psilocybe naematoliformis,none,gills,"umbonate, campanulate","adnate, sinuate",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_naematoliformis
+coprinopsis lagopus,harefoot mushroom,gills,ovate,free,bare,black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Coprinopsis_lagopus
+bovista nigrescens,"brown puffball,black bovist",glebal,none,none,none,brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Bovista_nigrescens
+agaricus lilaceps,"cypress agaricus,giant cypress agaricus",gills,"flat, depressed",free,bare,blackish-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Agaricus_lilaceps
+agaricus placomyces,none,gills,"convex, flat",free,ring,blackish-brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Agaricus_placomyces
+verpa bohemica,"early morel,wrinkled thimble-cap",smooth,convex,none,bare,yellow,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Verpa_bohemica
+conocybe rickenii,none,gills,conical,adnate,bare,brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Conocybe_rickenii
+battarrea phalloides,"scaley-stalked puffball,sandy stiltball,desert stalked puffball",glebal,conical,none,volva,ochre,saprotrophic,inedible,https://en.wikipedia.org/wiki/Battarrea_phalloides
+handkea utriformis,mosaic puffball,glebal,none,none,none,brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Handkea_utriformis
+pseudocolus fusiformis,stinky squid,glebal,none,none,none,olive-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Pseudocolus_fusiformis
+panus conchatus,"lilac oysterling,smooth panus,conch panus",gills,"convex, flat",decurrent,bare,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Panus_conchatus
+caloscypha fulgens,"caloscypha,snowbank orange peel fungus,spring orange peel fungus,golden cup,dazzling cup",glebal,none,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Caloscypha
+hygrocybe virescens,lime-green waxy cap,gills,flat,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Hygrocybe_virescens
+clathrus columnatus,column stinkhorn,glebal,none,none,none,olive-brown,saprotrophic,"not recommended, unknown",https://en.wikipedia.org/wiki/Clathrus_columnatus
+cyptotrama asprata,"golden-scruffy collybia,spiny woodknight",gills,convex,"adnate, decurrent","ring, bare",white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Cyptotrama_asprata
+geastrum saccatum,"sessile earthstar,rounded earthstar,star of the land",glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_saccatum
+ischnoderma resinosum,"late fall polypore,resinous polypore,benzoin bracket",pores,none,none,none,white,saprotrophic,"edible, too hard to eat",https://en.wikipedia.org/wiki/Ischnoderma_resinosum
+hebeloma gigaspermum,none,gills,convex,emarginate,bare,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Hebeloma_gigaspermum
+hebeloma mesophaeum,veiled hebeloma,gills,"convex, umbonate","adnate, sinuate","bare, cortina",brown,mycorrhizal,"edible, poisonous",https://en.wikipedia.org/wiki/Hebeloma_mesophaeum
+hebeloma sinapizans,"scaly-stalked heboloma,rough-stalked hebeloma,bitter poisonpie",gills,convex,adnexed,none,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Hebeloma_sinapizans
+coprinellus domesticus,"domestic inky cap,firerug inkcap",gills,"ovate, campanulate","adnexed, free","bare, ring",black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Coprinellus_domesticus
+coprinellus disseminatus,"coprinus disseminatus,fairy inkcap,fairy bonnet,trooping crumble cap",gills,convex,adnate,bare,black,saprotrophic,edible,https://en.wikipedia.org/wiki/Coprinellus_disseminatus
+coprinellus micaceus,"mica cap,glistening inky cap,shiny cap",gills,"conical, campanulate",adnexed,bare,black,saprotrophic,edible,https://en.wikipedia.org/wiki/Coprinellus_micaceus
+armillaria gallica,none,gills,convex,adnate,ring,white,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Armillaria_gallica
+aspropaxillus giganteus,"leucopaxillus giganteus,giant leucopax,giant clitocybe,giant funnel",gills,"infundibuliform, flat",decurrent,bare,white,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Aspropaxillus_giganteus
+mycena haematopus,"bleeding fairy helmet,burgundydrop bonnet,bleeding mycena",gills,"conical, campanulate",adnate,bare,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Mycena_haematopus
+laccaria amethystina,"amethyst deceiver,amethyst laccaria",gills,"convex, depressed","adnate, decurrent",bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Laccaria_amethystina
+gautieria monticola,none,glebal,none,none,none,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Gautieria_monticola
+helvella elastica,"flexible helvella,elastic saddle,brown elfin saddle",smooth,convex,none,bare,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Helvella_elastica
+exidia glandulosa,"witch's butter,black witches' butter,black jelly roll,warty jelly fungus",smooth,none,none,none,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Exidia_glandulosa
+mycena interrupta,pixie's parasol,gills,"convex, depressed",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_interrupta
+pleurotus pulmonarius,"indian oyster,italian oyster,phoenix mushroom,lung oyster",gills,"offset, convex",decurrent,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Pleurotus_pulmonarius
+geastrum australe,none,glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_australe
+geastrum campestre,none,glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_campestre
+geastrum corollinum,none,glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_corollinum
+geastrum coronatum,none,glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_coronatum
+geastrum elegans,none,glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_elegans
+geastrum fimbriatum,"fringed earthstar,sessile earthstar",glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_fimbriatum
+geastrum pectinatum,"beaked earthstar,beret earthstar",glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_pectinatum
+rhodotus palmatus,"rhodotus,netted rhodotus,rosy veincap,wrinkled peach",gills,convex,adnate,bare,"white, pink",saprotrophic,unknown,https://en.wikipedia.org/wiki/Rhodotus
+bothia castanella,bothia,pores,"convex, flat",decurrent,bare,yellow-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Bothia
+leucopaxillus albissimus,large white leucopaxillus,gills,"convex, flat",decurrent,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Leucopaxillus_albissimus
+phylloporus rhodoxanthus,gilled bolete,gills,"convex, flat","adnate, decurrent",bare,"brown, yellow",mycorrhizal,edible,https://en.wikipedia.org/wiki/Phylloporus_rhodoxanthus
+astraeus hygrometricus,"hygroscopic earthstar,barometer earthstar,false earthstar",glebal,none,none,none,brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Astraeus_hygrometricus
+boletus rex-veris,spring king bolete,pores,convex,adnexed,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_rex-veris
+bovista aestivalis,none,glebal,none,none,none,yellow-brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Bovista_aestivalis
+polyozellus,"blue chanterelle,clustered blue chanterelle,bluefan,black chanterelle",ridges,infundibuliform,none,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Polyozellus
+polyozellus multiplex,"blue chanterelle,purple chanterelle,black chanterelle",ridges,infundibuliform,none,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Polyozellus_multiplex
+agaricus arorae,none,gills,"convex, flat",free,ring,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Agaricus_arorae
+grifola frondosa,"hen-of-the-woods,maitake,ram's head,sheep's head",pores,offset,decurrent,bare,white,parasitic,choice,https://en.wikipedia.org/wiki/Grifola_frondosa
+agaricus albolutescens,amber-staining agaricus,gills,"convex, flat",free,ring,brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_albolutescens
+geastrum triplex,"collared earthstar,saucered earthstar,triple earthstar",glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_triplex
+calvatia sculpta,"sculpted puffball,sculptured puffball,pyramid puffball,sierran puffball",glebal,none,none,none,brown,mycorrhizal,"edible, inedible",https://en.wikipedia.org/wiki/Calvatia_sculpta
+amanita flavoconia,"yellow patches,yellow wart,orange amanita,yellow-dust amanita,american yellow dust amanita",gills,flat,free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_flavoconia
+exsudoporus frostii,"boletus frostii,frost's bolete,apple bolete",pores,"convex, flat",adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Exsudoporus_frostii
+amanita vaginata,"grisette,grisette amanita",gills,umbonate,free,volva,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Amanita_vaginata
+gymnopilus aurantiophyllus,none,gills,convex,"adnexed, adnate",cortina,brown,saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Gymnopilus_aurantiophyllus
+gymnopilus dilepis,none,gills,"convex, depressed","adnate, decurrent","bare, ring",ochre,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Gymnopilus_dilepis
+agaricus perobscurus,princess,gills,flat,free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_perobscurus
+calvatia bovista,none,glebal,none,none,none,"white, olive-brown",saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Calvatia_bovista
+calvatia cyathiformis,purple-spored puffball,glebal,none,none,none,"purple, purple-brown",saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Calvatia_cyathiformis
+agaricus dulcidulus,rosy wood mushroom,gills,"convex, flat",free,ring,brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_dulcidulus
+amanita abrupta,"american abrupt-bulbed amanita,american abrupt-bulbed lepidella",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_abrupta
+lepiota helveola,none,gills,"convex, flat",free,ring,white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Lepiota_helveola
+lepiota castanea,"chestnut dapperling,petite parasol",gills,"campanulate, conical",adnexed,ring,white,saprotrophic,deadly,https://en.wikipedia.org/wiki/Lepiota_castanea
+lactarius indigo,"indigo milk cap,indigo milky,indigo lactarius,blue lactarius,blue milk mushroom",gills,depressed,"adnate, decurrent",bare,yellow,mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_indigo
+galerina sulciceps,none,gills,"convex, flat",adnate,"ring, bare","yellow-orange, brown",saprotrophic,deadly,https://en.wikipedia.org/wiki/Galerina_sulciceps
+albatrellus ovinus,sheep polypore,pores,"convex, flat",decurrent,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Albatrellus_ovinus
+butyriboletus appendiculatus,butter bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Butyriboletus_appendiculatus
+mycena galericulata,"common bonnet,toque mycena,common mycena,rosy-gill fairy helmet",gills,conical,"adnexed, sinuate",bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_galericulata
+calbovista,"sculptured puffball,sculptured giant puffball,warted giant puffball",glebal,none,none,none,blackish-brown,saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Calbovista
+mycenastrum,none,glebal,none,none,none,"white, purple-brown",saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycenastrum
+phaeolepiota aurea,"phaeolepiota,alaskan gold,alaska gold,golden bootleg,golden cap",gills,"flat, convex",free,ring,reddish-brown,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Phaeolepiota
+aureoboletus mirabilis,"admirable bolete,bragger's bolete,velvet top",pores,convex,adnate,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Aureoboletus_mirabilis
+leccinum manzanitae,manzanita bolete,pores,convex,adnate,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Leccinum_manzanitae
+xerocomellus zelleri,zeller's bolete,pores,"convex, flat",adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Xerocomellus_zelleri
+suillus americanus,"chicken fat mushroom,american suillus",pores,"convex, flat","adnate, decurrent",bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_americanus
+suillus brevipes,"stubby-stalk,short-stemmed slippery jack",pores,"convex, flat","adnate, decurrent",bare,brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Suillus_brevipes
+suillus lakei,"matte jack,lake's bolete,western painted suillus",pores,"convex, flat","adnate, decurrent",ring,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_lakei
+mycena acicula,"orange bonnet,coral spring mycena",gills,"conical, campanulate",adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_acicula
+atheniella adonis,scarlet bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Atheniella_adonis
+mycena rosea,rosy bonnet,gills,conical,adnate,bare,white,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Mycena_rosea
+mycena adscendens,frosty bonnet,gills,conical,"free, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_adscendens
+mycena urania,violet bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_urania
+mycena aetites,drab bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_aetites
+mycena cinerella,mealy bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_cinerella
+atheniella flavoalba,ivory bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Atheniella_flavoalba
+mycena rosella,pink bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_rosella
+mycena inclinata,"clustered bonnet,oak-stump bonnet cap",gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_inclinata
+mycena leptocephala,nitrous bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_leptocephala
+mycena olida,rancid bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_olida
+mycena polygramma,grooved bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_polygramma
+mycena vitilis,snapping bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_vitilis
+mycena sanguinolenta,"bleeding bonnet,smaller bleeding mycena,terrestrial bleeding mycena",gills,"conical, convex",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_sanguinolenta
+mycena pura,"lilac mycena,lilac bonnet",gills,flat,adnexed,bare,white,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Mycena_pura
+mycena renati,beautiful bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_renati
+faerberia,firesite funnel,gills,umbilicate,decurrent,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Faerberia
+suillus spraguei,"painted slipperycap,painted suillus,red and yellow suillus",pores,convex,decurrent,ring,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Suillus_spraguei
+leucopholiota decorosa,decorated pholiota,gills,"conical, flat",adnexed,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucopholiota_decorosa
+cantharellus lateritius,smooth chanterelle,ridges,infundibuliform,decurrent,bare,"cream, salmon",mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_lateritius
+marasmius elegans,velvet parachute,gills,convex,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Marasmius_elegans
+pholiota malicola,forgettable pholiota,gills,"convex, umbonate",adnexed,"bare, ring",brown,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Pholiota_malicola
+mycena nargan,nargan's bonnet,gills,conical,adnate,bare,"white, cream",saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_nargan
+mycena vinacea,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_vinacea
+disciotis venosa,"bleach cup,veiny cup fungus,cup morel",smooth,infundibuliform,none,bare,"cream, yellow",saprotrophic,"edible, choice",https://en.wikipedia.org/wiki/Disciotis_venosa
+clitocybe glacialis,none,gills,convex,"adnate, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clitocybe_glacialis
+mycena overholtsii,"snowbank fairy helmet,fuzzy foot",gills,convex,"adnate, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_overholtsii
+plectania nannfeldtii,"nannfeldt's plectania,black felt cup,black snowbank cup fungus",smooth,none,none,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Plectania_nannfeldtii
+pleurotus nebrodensis,none,gills,"depressed, offset",decurrent,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Pleurotus_nebrodensis
+russula albonigra,"blackening russula,brittlegills",gills,"convex, infundibuliform",decurrent,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Russula_albonigra
+suillellus amygdalinus,boletus amygdalinus,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Suillellus_amygdalinus
+amanita daucipes,"carrot-footed lepidella,carrot-foot amanita,turnip-foot amanita",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_daucipes
+amanita onusta,"loaded lepidella,gunpowder lepidella,gunpowder amanita",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_onusta
+pholiota flammans,"yellow pholiota,flaming pholiota,flame scalecap",gills,convex,adnate,ring,"brown, reddish-brown",saprotrophic,unknown,https://en.wikipedia.org/wiki/Pholiota_flammans
+agrocybe pediades,"common fieldcap,common agrocybe",gills,convex,none,bare,brown,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Agrocybe_pediades
+amanita bisporigera,"eastern destroying angel amanita,eastern north american destroying angel,destroying angel",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_bisporigera
+boletus regineus,queen bolete,pores,convex,adnate,bare,olive,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_regineus
+flammulina velutipes,"velvet foot,wild enoki,velvet stem,velvet shank",gills,convex,adnate,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Flammulina_velutipes
+suillus bellinii,champagne bolete,pores,"convex, flat","adnate, decurrent",bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_bellinii
+hygrophorus agathosmus,"gray almond waxy cap,almond woodwax",gills,"convex, flat",adnate,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Hygrophorus_agathosmus
+ganoderma multipileum,"lingzhi,chizhi",pores,offset,none,bare,brown,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Ganoderma_multipileum
+cystodermella cinnabarina,"cystoderma cinnabarinum,cystoderma terreyi",gills,"convex, flat","emarginate, adnate",ring,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Cystodermella_cinnabarina
+tricholoma saponaceum,"soap-scented toadstool,soapy tricholoma,soapy knight,soap tricholoma",gills,convex,adnexed,bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Tricholoma_saponaceum
+caloboletus rubripes,"red-stipe bolete,red-stemmed bitter bolete",pores,convex,adnate,bare,olive-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Caloboletus_rubripes
+amanita aestivalis,white american star-footed amanita,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_aestivalis
+panellus stipticus,"bitter oyster,astringent panus,luminescent panellus,stiptic fungus",gills,"convex, offset",free,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Panellus_stipticus
+amanita regalis,"royal fly agaric,king of sweden amanita",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_regalis
+marasmius rotula,"pinwheel mushroom,pinwheel marasmius,little wheel,collared parachute,horse hair fungus",gills,convex,free,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Marasmius_rotula
+tylopilus plumbeoviolaceus,violet-grey bolete,pores,convex,adnate,bare,"buff, pink",mycorrhizal,inedible,https://en.wikipedia.org/wiki/Tylopilus_plumbeoviolaceus
+agaricus deserticola,gasteroid agaricus,gills,convex,free,"ring, bare",purple-black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Agaricus_deserticola
+clavariadelphus truncatus,"truncate club coral,truncated club,club coral",smooth,none,none,bare,ochre,mycorrhizal,"edible, choice",https://en.wikipedia.org/wiki/Clavariadelphus_truncatus
+xeromphalina campanella,"golden trumpet,bell omphalina",gills,"convex, depressed",decurrent,bare,white,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Xeromphalina_campanella
+panaeolus microsporus,none,gills,convex,adnexed,bare,black,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Panaeolus_microsporus
+psilocybe aztecorum,none,gills,"convex, campanulate","adnate, adnexed",bare,purple,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_aztecorum
+psilocybe hispanica,none,gills,"conical, convex",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_hispanica
+psilocybe hoogshagenii,none,gills,"conical, convex","adnate, adnexed",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_hoogshagenii
+crepidotus mollis,"peeling oysterling,soft slipper,jelly crep,flabby crepidotus",gills,"convex, flat",none,none,"brown, yellow-brown",saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Crepidotus_mollis
+psilocybe serbica,none,gills,"convex, conical","adnate, adnexed",cortina,"blackish-brown, purple",saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_serbica
+psilocybe subcaerulipes,hikageshibiretake,gills,"conical, convex",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_subcaerulipes
+psilocybe tasmaniana,none,gills,"convex, campanulate",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_tasmaniana
+psilocybe yungensis,none,gills,"conical, campanulate","adnate, adnexed",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_yungensis
+cystoderma carcharias,none,gills,"convex, flat",adnate,ring,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Cystoderma_carcharias
+cystolepiota bucknallii,none,gills,convex,free,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Cystolepiota_bucknallii
+paragyrodon sphaerosporus,paragyrodon,pores,infundibuliform,adnate,cortina,yellow-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Paragyrodon
+amanita hemibapha,half-dyed slender caesar,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Amanita_hemibapha
+russula integra,entire russula,gills,"convex, depressed","adnate, free",bare,yellow,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Russula_integra
+gastropila fumosa,none,glebal,none,none,none,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Gastropila_fumosa
+lactarius semisanguifluus,none,gills,depressed,decurrent,bare,tan,mycorrhizal,choice,https://en.wikipedia.org/wiki/Lactarius_semisanguifluus
+lactarius sanguifluus,bloody milk cap,gills,depressed,decurrent,bare,tan,mycorrhizal,choice,https://en.wikipedia.org/wiki/Lactarius_sanguifluus
+phallus pygmaeus,none,smooth,none,none,volva,olive,saprotrophic,unknown,https://en.wikipedia.org/wiki/Phallus_pygmaeus
+clavaria fragilis,"fairy fingers,white worm coral,white spindles",smooth,none,none,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Clavaria_fragilis
+pleurotus djamor,pink oyster mushroom,gills,offset,decurrent,bare,pink,saprotrophic,choice,https://en.wikipedia.org/wiki/Pleurotus_djamor
+mycena californiensis,none,gills,"conical, campanulate",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_californiensis
+peziza cerea,cellar cup,smooth,none,none,none,"white, cream",saprotrophic,inedible,https://en.wikipedia.org/wiki/Peziza_cerea
+amanita exitialis,guangzhou destroying angel,gills,convex,free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_exitialis
+lycoperdon pulcherrimum,long-spined puffball,glebal,none,none,none,olive,saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Lycoperdon_pulcherrimum
+suillus sibiricus,siberian slippery jack,pores,"convex, flat","adnate, decurrent","ring, bare",brown,mycorrhizal,"edible, allergic",https://en.wikipedia.org/wiki/Suillus_sibiricus
+clavaria zollingeri,"violet coral,magenta coral",smooth,none,none,none,white,saprotrophic,"not recommended, inedible",https://en.wikipedia.org/wiki/Clavaria_zollingeri
+amanita virosiformis,narrow-spored destroying angel,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_virosiformis
+amanita magnivelaris,"great felt skirt destroying angel,great feltskirt destroying angel amanita",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_magnivelaris
+amanita elliptosperma,atkinson's destroying angel,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_elliptosperma
+amanita magniverrucata,"pine cone amanita,great pine jewel",gills,"convex, flat","free, adnate","ring,volva",white,mycorrhizal,"unknown, poisonous",https://en.wikipedia.org/wiki/Amanita_magniverrucata
+lactarius subflammeus,orange milk cap,gills,convex,"adnate, decurrent",bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_subflammeus
+lactarius aspideus,bright yellow milkcap,gills,depressed,adnate,bare,yellow,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_aspideus
+lactarius alnicola,golden milkcap,gills,depressed,"adnate, decurrent",bare,"white, yellow",mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_alnicola
+lactarius pubescens,downy milk cap,gills,depressed,decurrent,bare,cream,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_pubescens
+lactarius repraesentaneus,"northern bearded milkcap,northern milkcap,purple-staining bearded milkcap",gills,depressed,decurrent,bare,yellow,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Lactarius_repraesentaneus
+lactarius affinis,kindred milk cap,gills,depressed,decurrent,bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Lactarius_affinis
+lactarius fallax,velvety milk cap,gills,depressed,decurrent,bare,yellow,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_fallax
+lactifluus deceptivus,"lactarius deceptivus,deceiving milkcap",gills,depressed,decurrent,bare,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Lactifluus_deceptivus
+lactarius argillaceifolius,none,gills,depressed,decurrent,bare,"white, buff",mycorrhizal,"unknown, poisonous",https://en.wikipedia.org/wiki/Lactarius_argillaceifolius
+lactarius rufulus,"rufous candy cap,southern candy cap",gills,depressed,decurrent,bare,"cream, yellow",mycorrhizal,edible,https://en.wikipedia.org/wiki/Lactarius_rufulus
+strobilomyces foveatus,none,pores,convex,adnate,bare,"black, brown",mycorrhizal,unknown,https://en.wikipedia.org/wiki/Strobilomyces_foveatus
+cortinarius armillatus,"red-banded cortinarius,bracelet cortinarius",gills,"campanulate, convex","adnate, sinuate",cortina,brown,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Cortinarius_armillatus
+amanita australis,none,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_australis
+amanita franchetii,"yellow veiled amanita,franchet's amanita",gills,"flat, convex",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_franchetii
+amanita nothofagi,none,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_nothofagi
+amanita nehuta,maori dust amanita,gills,"flat, convex",free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_nehuta
+strobilomyces strobilaceus,"strobilomyces floccopus,old man of the woods",pores,convex,adnate,ring,"blackish-brown, black",mycorrhizal,edible,https://en.wikipedia.org/wiki/Strobilomyces_strobilaceus
+agaricus californicus,"mock meadow mushroom,california agaricus",gills,convex,free,ring,brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Agaricus_californicus
+humidicutis marginata,none,gills,umbonate,adnexed,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Humidicutis_marginata
+rubroboletus rhodoxanthus,boletus rhodoxanthus,pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Rubroboletus_rhodoxanthus
+agaricus silvaticus,"agaricus sylvaticus,scaly wood mushroom,blushing wood mushroom,pinewood mushroom",gills,flat,none,ring,brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Agaricus_silvaticus
+agaricus macrosporus,none,gills,convex,free,ring,purple-brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_macrosporus
+russula decolorans,graying russula,gills,"convex, depressed","adnate, adnexed",bare,yellow,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Russula_decolorans
+russula paludosa,none,gills,convex,decurrent,bare,ochre,mycorrhizal,edible,https://en.wikipedia.org/wiki/Russula_paludosa
+amanita jacksonii,"jackson's slender amanita,american slender caesar,eastern caesar's amanita",gills,"flat, convex",free,"ring,volva",white,mycorrhizal,"choice, not recommended",https://en.wikipedia.org/wiki/Amanita_jacksonii
+cyanoboletus pulverulentus,ink stain bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cyanoboletus_pulverulentus
+boletus sensibilis,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Boletus_sensibilis
+suillus viscidus,sticky bolete,pores,convex,decurrent,ring,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_viscidus
+cerioporus leptocephalus,blackfoot polypore,pores,flat,decurrent,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Cerioporus_leptocephalus
+lycoperdon molle,"smooth puffball,soft puffball",glebal,none,none,none,olive,saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Lycoperdon_molle
+cortinarius varius,contrary webcap,gills,"convex, flat",adnate,bare,reddish-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cortinarius_varius
+thaxterogaster purpurascens,bruising webcap,gills,convex,emarginate,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Thaxterogaster_purpurascens
+cortinarius infractus,"sooty-olive cortinarius,bitter webcap",gills,convex,adnate,bare,reddish-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cortinarius_infractus
+cortinarius delibutus,"bluegill webcap,yellow webcap",gills,convex,adnate,bare,reddish-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cortinarius_delibutus
+hygrophorus eburneus,"ivory waxy cap,cowboy's handkerchief",gills,"convex, flat",decurrent,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Hygrophorus_eburneus
+tulosesus impatiens,none,gills,"convex, flat",adnexed,bare,blackish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Tulosesus_impatiens
+coprinopsis variegata,"scaly ink cap,feltscale inky cap",gills,conical,free,ring,black,saprotrophic,allergenic,https://en.wikipedia.org/wiki/Coprinopsis_variegata
+coprinopsis picacea,"magpie mushroom,magpie fungus,magpie inkcap fungus",gills,conical,free,bare,black,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Coprinopsis_picacea
+gyroporus cyanescens,"bluing bolete,cornflower bolete",pores,"convex, flat",none,bare,"cream, yellow",mycorrhizal,choice,https://en.wikipedia.org/wiki/Gyroporus_cyanescens
+cantharellus formosus,pacific golden chanterelle,ridges,infundibuliform,decurrent,bare,"yellow, white",mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_formosus
+cantharellus subalbidus,white chanterelle,ridges,infundibuliform,decurrent,bare,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_subalbidus
+cantharellus californicus,"california golden chanterelle,mud puppy,oak chanterelle",ridges,infundibuliform,decurrent,bare,yellow,mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_californicus
+amanita atkinsoniana,atkinson's amanita,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_atkinsoniana
+amanita ravenelii,pinecone lepidella,gills,"umbonate, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_ravenelii
+clavariadelphus ligula,strap coral,smooth,none,none,bare,white,mycorrhizal,"unknown, inedible",https://en.wikipedia.org/wiki/Clavariadelphus_ligula
+geastrum quadrifidum,"rayed earthstar,four-footed earthstar",glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_quadrifidum
+geastrum welwitschii,none,glebal,none,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Geastrum_welwitschii
+inosperma maculatum,"inocybe maculata,frosty fibrecap,brown inocybe",gills,"conical, umbonate","adnate, adnexed",bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Inosperma_maculatum
+trichoderma cornu-damae,"podostroma cornu-damae,poison fire coral",smooth,none,none,bare,"yellow, brown",saprotrophic,deadly,https://en.wikipedia.org/wiki/Trichoderma_cornu-damae
+mycena stylobates,bulbous bonnet,gills,conical,adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_stylobates
+guepina helvelloides,"guepinia,guepinia helvelloides,apricot jelly",smooth,depressed,none,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Guepinia
+lactarius vinaceorufescens,"yellow-staining milkcap,yellow-latex milky",gills,depressed,decurrent,bare,"white, yellow",mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Lactarius_vinaceorufescens
+inosperma cookei,straw fibrecap,gills,campanulate,adnexed,bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Inosperma_cookei
+leratiomyces squamosus,none,gills,convex,adnate,ring,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leratiomyces_squamosus
+boletellus ananas,pineapple bolete,pores,convex,adnate,bare,brown,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Boletellus_ananas
+pholiota squarrosa,"shaggy scalycap,shaggy pholiota,scaly pholiota",gills,"convex, flat","adnate, sinuate",ring,brown,parasitic,not recommended,https://en.wikipedia.org/wiki/Pholiota_squarrosa
+mycena clariviolacea,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_clariviolacea
+mycena fonticola,none,gills,conical,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_fonticola
+mycena fuscoaurantiaca,none,gills,conical,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_fuscoaurantiaca
+mycena intersecta,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_intersecta
+mycena lanuginosa,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_lanuginosa
+mycena multiplicata,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_multiplicata
+mycena mustea,none,gills,conical,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_mustea
+mycena nidificata,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_nidificata
+inocybe praetervisa,none,gills,campanulate,adnexed,bare,brown,mycorrhizal,"not recommended, poisonous",https://en.wikipedia.org/wiki/Inocybe_praetervisa
+mycena maculata,reddish-spotted mycena,gills,conical,"adnate, sinuate",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_maculata
+suillus collinitus,none,pores,"convex, flat",decurrent,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_collinitus
+amanita rubrovolvata,red volva amanita,gills,convex,free,"ring,volva","white, cream",mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_rubrovolvata
+agaricus hondensis,felt-ringed agaricus,gills,"convex, flat",free,ring,"brown, purple-brown",saprotrophic,poisonous,https://en.wikipedia.org/wiki/Agaricus_hondensis
+aseroe coccinea,none,smooth,none,none,bare,olive-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Aseroe_coccinea
+clathrus bicolumnatus,none,glebal,none,none,none,olive-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clathrus_bicolumnatus
+clathrus delicatus,none,glebal,none,none,none,olive-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clathrus_delicatus
+mycena crocata,saffrondrop bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_crocata
+psilocybe pelliculosa,none,gills,"conical, campanulate","adnate, seceding",bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_pelliculosa
+lactifluus corrugis,"lactarius corrugis,corrugated-cap milky",gills,"convex, depressed",adnate,bare,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Lactifluus_corrugis
+deconica coprophila,"dung-loving psilocybe,meadow muffin mushroom,dung demon",gills,convex,"adnate, decurrent",bare,purple-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Deconica_coprophila
+amanita crocea,saffron ringless amanita,gills,"flat, convex",free,volva,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Amanita_crocea
+saproamanita thiersii,"amanita thiersii,thiers' lepidella",gills,convex,free,"ring,volva",white,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Saproamanita_thiersii
+amanita ceciliae,"snakeskin grisette,strangulated amanita,cecilia's ringless amanita",gills,"convex, flat",free,volva,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Amanita_ceciliae
+pleurocybella porrigens,angel wing,gills,infundibuliform,decurrent,bare,white,saprotrophic,"not recommended, deadly",https://en.wikipedia.org/wiki/Pleurocybella_porrigens
+stereum ostrea,"false turkey-tail,golden curtain crust",smooth,offset,decurrent,none,"white, yellow","saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Stereum_ostrea
+catathelasma imperiale,"catathelasma imperialis,imperial mushroom,hutsul mushroom,korban",gills,convex,decurrent,ring,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Catathelasma_imperiale
+catathelasma evanescens,none,gills,convex,decurrent,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Catathelasma_evanescens
+melanoleuca melaleuca,none,gills,"convex, umbonate",emarginate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Melanoleuca_melaleuca
+saproamanita vittadinii,vittadini's lepidella,gills,convex,free,volva,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Saproamanita_vittadinii
+hygrophorus bakerensis,"mt. baker waxy cap,brown almond waxy cap,tawny almond waxy cap",gills,"convex, flat",decurrent,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Hygrophorus_bakerensis
+laccaria amethysteo-occidentalis,none,gills,"convex, depressed","adnate, decurrent",bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Laccaria_amethysteo-occidentalis
+mycena aurantiomarginata,golden-edge bonnet,gills,"conical, campanulate",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_aurantiomarginata
+tricholoma columbetta,dove-coloured tricholoma,gills,convex,adnexed,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_columbetta
+collybia tuberosa,"lentil shanklet,appleseed coincap",gills,"convex, flat",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Collybia_tuberosa
+collybia cookei,none,gills,"convex, flat",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Collybia_cookei
+collybia cirrhata,none,gills,"convex, flat",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Collybia_cirrhata
+lepiota subincarnata,"fatal dapperling,deadly parasol",gills,"convex, flat",free,ring,white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Lepiota_subincarnata
+asterophora lycoperdoides,"star bearer,powdery piggyback mushroom,star bearer",gills,convex,none,bare,white,parasitic,inedible,https://en.wikipedia.org/wiki/Asterophora_lycoperdoides
+mycena arcangeliana,"angel's bonnet,late-season bonnet",gills,"conical, campanulate",adnexed,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_arcangeliana
+mycena flavescens,none,gills,"conical, campanulate",adnexed,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Mycena_flavescens
+mycena metata,none,gills,"conical, campanulate",adnexed,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_metata
+auriscalpium vulgare,"pinecone mushroom,cone tooth,ear-pick fungus",teeth,offset,adnexed,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Auriscalpium_vulgare
+armillaria ostoyae,armillaria solidipes,gills,"campanulate, convex",decurrent,ring,white,parasitic,choice,https://en.wikipedia.org/wiki/Armillaria_ostoyae
+mycena cystidiosa,none,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_cystidiosa
+volvopluteus gloiocephalus,"big sheath mushroom,rose-gilled grisette,stubble rosegill",gills,"ovate, flat",free,volva,"pink, pinkish-brown",saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Volvopluteus_gloiocephalus
+cortinarius rubellus,"orellani,deadly webcap,fool's webcap",gills,umbonate,adnexed,cortina,brown,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Orellani
+cortinarius orellanus,"fool's webcap,fools webcap",gills,flat,adnate,ring,reddish-brown,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Cortinarius_orellanus
+nidulariaceae,bird's nest fungi,glebal,infundibuliform,none,none,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Nidulariaceae
+amanita albocreata,"ringless panther,ringless panther amanita",gills,"flat, convex","free, adnate",volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_albocreata
+cantharellus pallens,pale chanterelle,gills,infundibuliform,seceding,bare,cream,mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_pallens
+cortinarius vanduzerensis,none,gills,"conical, campanulate","adnate, adnexed",cortina,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Cortinarius_vanduzerensis
+suillus salmonicolor,slippery jill,pores,"convex, flat","adnate, decurrent",bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_salmonicolor
+pleurotus citrinopileatus,golden oyster mushroom,gills,"flat, depressed",decurrent,bare,pink,saprotrophic,choice,https://en.wikipedia.org/wiki/Pleurotus_citrinopileatus
+pleurotus populinus,aspen oyster mushroom,gills,offset,decurrent,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Pleurotus_populinus
+amanita frostiana,frost's amanita,gills,convex,free,ring,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_frostiana
+cortinarius gentilis,none,gills,convex,adnexed,cortina,reddish-brown,mycorrhizal,"unknown, deadly",https://en.wikipedia.org/wiki/Cortinarius_gentilis
+morchella tomentosa,"gray,fuzzy foot,black foot morel",smooth,"conical, ovate",none,bare,"cream, yellow","mycorrhizal, saprotrophic",choice,https://en.wikipedia.org/wiki/Morchella_tomentosa
+cantharellus cascadensis,"cascade chanterelle,hybrid chanterelle",ridges,infundibuliform,decurrent,bare,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_cascadensis
+cantharellus cinnabarinus,none,ridges,infundibuliform,decurrent,bare,"white, pink",mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_cinnabarinus
+cantharellus minor,none,ridges,convex,decurrent,bare,yellow,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_minor
+cantharellus persicinus,"peach,pink chanterelle",ridges,infundibuliform,decurrent,bare,"white, pink",mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_persicinus
+cantharellus friesii,"orange,velvet chanterelle",ridges,infundibuliform,decurrent,bare,yellow,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_friesii
+cantharellus appalachiensis,none,ridges,infundibuliform,decurrent,bare,buff,mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_appalachiensis
+omphalotus olivascens,western jack-o'-lantern mushroom,gills,infundibuliform,decurrent,bare,yellow,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Omphalotus_olivascens
+amanita muscaria var. formosa,yellow orange fly agaric,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_muscaria_var._formosa
+boletus fibrillosus,fib king,pores,convex,adnexed,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Boletus_fibrillosus
+butyriboletus regius,"boletus regius,royal bolete,red-capped butter bolete",pores,convex,adnexed,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Butyriboletus_regius
+boletus subcaerulescens,none,pores,convex,adnexed,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Boletus_subcaerulescens
+agaricus cupreobrunneus,brown field mushroom,gills,convex,free,ring,blackish-brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_cupreobrunneus
+morchella semilibera,half-free morel,smooth,"conical, ovate",none,bare,"cream, yellow","mycorrhizal, saprotrophic","choice, allergic",https://en.wikipedia.org/wiki/Morchella_semilibera
+rhodocollybia butyracea,buttery collybia,gills,"convex, flat","adnexed, free",bare,"cream, buff",saprotrophic,edible,https://en.wikipedia.org/wiki/Rhodocollybia_butyracea
+rhodocollybia maculata,spotted toughshank,gills,"convex, flat",adnexed,bare,"pink, cream",saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Rhodocollybia_maculata
+aureoboletus russellii,"russell's bolete,jagged-stemmed bolete",pores,convex,adnate,bare,olive,mycorrhizal,edible,https://en.wikipedia.org/wiki/Aureoboletus_russellii
+tephrocybe rancida,rancid greyling,gills,"convex, flat",free,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Tephrocybe_rancida
+mycena luxaeterna,eternal light mushroom,gills,convex,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_luxaeterna
+suillus ochraceoroseus,rosey larch bolete,pores,"convex, flat","adnate, decurrent","ring, bare","reddish-brown, purple-brown",mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_ochraceoroseus
+tricholoma album,white knight,gills,"convex, flat",adnexed,bare,"white, cream",mycorrhizal,inedible,https://en.wikipedia.org/wiki/Tricholoma_album
+infundibulicybe geotropa,"trooping funnel,monk's head",gills,depressed,decurrent,bare,white,saprotrophic,choice,https://en.wikipedia.org/wiki/Infundibulicybe_geotropa
+paxillus vernalis,none,gills,depressed,decurrent,bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Paxillus_vernalis
+paxillus filamentosus,alder roll-rim,gills,depressed,decurrent,bare,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Paxillus_filamentosus
+entoloma bloxamii,"midnight blue entoloma,big blue pinkgill",gills,convex,adnexed,bare,pink,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Entoloma_bloxamii
+astraeus pteridis,giant hygroscopic earthstar,glebal,none,none,none,brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Astraeus_pteridis
+tricholoma portentosum,"charbonnier,streaked tricholoma,sooty head",gills,convex,adnate,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_portentosum
+tricholoma orirubens,blushing tricholoma,gills,convex,adnate,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_orirubens
+agaricus excellens,none,gills,"convex, flat",free,ring,purple-black,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_excellens
+agaricus inapertus,mountain gasteroid agaricus,gills,convex,none,"bare, ring",blackish-brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Agaricus_inapertus
+boletus subalpinus,gasteroid king bolete,pores,"convex, depressed",adnexed,bare,yellow-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Boletus_subalpinus
+leucoagaricus americanus,american parasol,gills,"flat, convex",free,ring,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Leucoagaricus_americanus
+tylopilus tabacinus,none,pores,"convex, flat",adnate,bare,"pinkish-brown, reddish-brown",mycorrhizal,unknown,https://en.wikipedia.org/wiki/Tylopilus_tabacinus
+gomphidius oregonensis,insidious gomphidius,gills,"convex, depressed",decurrent,bare,black,parasitic,edible,https://en.wikipedia.org/wiki/Gomphidius_oregonensis
+amanita aprica,sunshine amanita,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_aprica
+tylopilus alboater,black velvet bolete,pores,"convex, flat",adnate,bare,pink,mycorrhizal,edible,https://en.wikipedia.org/wiki/Tylopilus_alboater
+tylopilus atronicotianus,false black velvet bolete,pores,"convex, flat",adnate,bare,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Tylopilus_atronicotianus
+thelephora palmata,"fetid false coral,stinking earthfan",smooth,none,none,bare,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Thelephora_palmata
+tricholoma virgatum,ashen knight,gills,conical,adnexed,bare,white,mycorrhizal,"inedible, poisonous",https://en.wikipedia.org/wiki/Tricholoma_virgatum
+boletus rubroflammeus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Boletus_rubroflammeus
+agaricus pilatianus,none,gills,"convex, flat",free,ring,brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Agaricus_pilatianus
+bolbitius titubans,"bolbitius vitellinus,sunny side up",gills,"ovate, flat","adnate, free",bare,brown,saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Bolbitius_titubans
+tricholoma atrosquamosum,dark-scaled knight,gills,convex,"adnate, free",bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_atrosquamosum
+amanita parcivolvata,ringless false fly amanita,gills,"ovate, flat",free,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Amanita_parcivolvata
+cuphophyllus pratensis,"meadow waxcap,meadow waxy cap,salmon waxy cap,butter meadowcap",gills,"umbonate, depressed",decurrent,bare,white,mycorrhizal,"choice, edible",https://en.wikipedia.org/wiki/Cuphophyllus_pratensis
+tectella patellaris,veiled panus,gills,infundibuliform,free,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Tectella_patellaris
+macrocybe titans,none,gills,convex,adnexed,bare,cream,saprotrophic,unknown,https://en.wikipedia.org/wiki/Macrocybe_titans
+clitocybe fragrans,none,gills,flat,decurrent,bare,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Clitocybe_fragrans
+exsudoporus floridanus,none,pores,"convex, flat",adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Exsudoporus_floridanus
+clitocybe tarda,none,gills,convex,"adnate, decurrent",bare,pink,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clitocybe_tarda
+rickenella fibula,"omphalina fibula,orange moss navel",gills,"depressed, infundibuliform",decurrent,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Rickenella_fibula
+amanita pseudoporphyria,hongo's false death cap,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_pseudoporphyria
+morchella punctipes,none,smooth,conical,none,bare,"white, yellow-orange","saprotrophic, mycorrhizal","choice, allergic",https://en.wikipedia.org/wiki/Morchella_punctipes
+agrocybe praecox,"spring fieldcap,spring agrocybe,early agrocybe",gills,convex,adnexed,ring,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Agrocybe_praecox
+clavaria fumosa,"grayish fairy club,smoky clavaria,smoky spindles",smooth,none,none,bare,white,saprotrophic,"edible, inedible",https://en.wikipedia.org/wiki/Clavaria_fumosa
+hygrophorus olivaceoalbus,"olive wax cap,sheathed waxy cap",gills,umbonate,"adnate, decurrent","bare, ring",white,mycorrhizal,"choice, not recommended",https://en.wikipedia.org/wiki/Hygrophorus_olivaceoalbus
+pholiota aurivella,golden pholiota,gills,campanulate,adnate,ring,brown,saprotrophic,"inedible, edible, unpalatable",https://en.wikipedia.org/wiki/Pholiota_aurivella
+protostropharia semiglobata,"dung roundhead,halfglobe mushroom,hemispherical stropharia",gills,convex,adnate,ring,purple-black,saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Protostropharia_semiglobata
+entoloma murrayi,"yellow unicorn entoloma,unicorn pinkgill",gills,conical,adnate,bare,salmon,saprotrophic,unknown,https://en.wikipedia.org/wiki/Entoloma_murrayi
+volvariella surrecta,piggyback rosegill,gills,"convex, flat",free,volva,pinkish-brown,parasitic,inedible,https://en.wikipedia.org/wiki/Volvariella_surrecta
+clavulina cinerea,"gray coral,ashy coral mushroom",smooth,none,none,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Clavulina_cinerea
+volvariella bombycina,"silky volvariella,silky sheath,silky rosegill,silver-silk straw mushroom,tree mushroom",gills,"conical, umbonate",free,volva,"pink, salmon",saprotrophic,"edible, choice",https://en.wikipedia.org/wiki/Volvariella_bombycina
+psathyrella ammophila,dune brittlestem,gills,"campanulate, flat",adnate,bare,blackish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Psathyrella_ammophila
+calocera viscosa,"yellow stagshorn,coral jelly fungus,jelly staghorn,yellow false coral,yellow tuning fork,jelly antler",smooth,none,none,bare,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Calocera_viscosa
+boletus curtisii,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Boletus_curtisii
+tricholoma vaccinum,"russet scaly tricholoma,scaly knight,fuzztop",gills,"convex, flat","adnate, sinuate",bare,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Tricholoma_vaccinum
+mycena atkinsoniana,none,gills,"conical, flat",adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_atkinsoniana
+boletus auripes,butter-foot bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Boletus_auripes
+mycena chlorophos,none,gills,"conical, flat","free, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_chlorophos
+amanita zambiana,zambian slender caesar,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Amanita_zambiana
+boletus subvelutipes,red-mouth bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Boletus_subvelutipes
+pulveroboletus ravenelii,"ravenel's bolete,powdery sulfur bolete",pores,"convex, flat",none,ring,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Pulveroboletus_ravenelii
+agrocybe putaminum,mulch fieldcap,gills,convex,adnate,ring,blackish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Agrocybe_putaminum
+hapalopilus rutilans,"tender nesting polypore,purple dye polypore,cinnamon bracket",pores,convex,none,none,white,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Hapalopilus_rutilans
+roridomyces austrororidus,austro dripping bonnet,gills,"convex, conical",adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Roridomyces_austrororidus
+ramaria stricta,"strict-branch coral,strict coral mushroom",smooth,none,none,bare,yellow,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Ramaria_stricta
+ramaria rasilispora,yellow coral,smooth,none,none,bare,yellow-orange,mycorrhizal,edible,https://en.wikipedia.org/wiki/Ramaria_rasilispora
+cantharellus flavus,"american golden chanterelle,eastern yellow chanterelle,midwestern yellow chanterelle",ridges,"convex, infundibuliform",decurrent,bare,yellow,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_flavus
+amanita sphaerobulbosa,asian abrupt-bulbed lepidella,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,"poisonous, deadly",https://en.wikipedia.org/wiki/Amanita_sphaerobulbosa
+phellodon tomentosus,"zoned phellodon,zoned cork hydnum",teeth,"flat, depressed",decurrent,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Phellodon_tomentosus
+omphalotus japonicus,tsukiyotake,gills,infundibuliform,decurrent,bare,yellow,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Omphalotus_japonicus
+parasola plicatilis,pleated inkcap,gills,"convex, depressed",free,bare,black,saprotrophic,inedible,https://en.wikipedia.org/wiki/Parasola_plicatilis
+amanita volvata,volvate amanita,gills,"convex, flat",free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_volvata
+amanita flavella,none,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_flavella
+amanita subvaginata,australian false vaginata,gills,"convex, flat",free,volva,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_subvaginata
+agaricus brunneofibrillosus,"dusky mushroom,bleeding agaricus",gills,"convex, flat",free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_brunneofibrillosus
+mycena strobilinoides,"flame mycena,scarlet fairy helmet",gills,"campanulate, conical","adnate, decurrent",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_strobilinoides
+lepiota castaneidisca,none,gills,campanulate,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Lepiota_castaneidisca
+lactarius pallescens,none,gills,"flat, depressed",subdecurrent,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_pallescens
+lepiota cristata,"stinking dapperling,brown-eyed parasol,stinking parasol",gills,convex,free,ring,"white, buff",saprotrophic,"unknown, poisonous",https://en.wikipedia.org/wiki/Lepiota_cristata
+rubroboletus rubrosanguineus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_rubrosanguineus
+tricholoma aurantium,golden orange tricholoma,gills,"convex, umbonate","adnate, adnexed",bare,white,mycorrhizal,"inedible, edible, unpalatable",https://en.wikipedia.org/wiki/Tricholoma_aurantium
+tricholoma caligatum,european matsutake,gills,convex,adnate,ring,white,mycorrhizal,"edible, choice",https://en.wikipedia.org/wiki/Tricholoma_caligatum
+tricholoma fracticum,none,gills,convex,subdecurrent,ring,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Tricholoma_fracticum
+tricholoma pessundatum,none,gills,convex,"adnexed, free",bare,white,mycorrhizal,"poisonous, allergic",https://en.wikipedia.org/wiki/Tricholoma_pessundatum
+tricholoma vernaticum,none,gills,"convex, flat",adnate,ring,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Tricholoma_vernaticum
+volvopluteus earlei,none,gills,"ovate, flat",free,volva,"pink, pinkish-brown",saprotrophic,unknown,https://en.wikipedia.org/wiki/Volvopluteus_earlei
+volvopluteus michiganensis,none,gills,"ovate, flat",free,volva,"pink, pinkish-brown",saprotrophic,unknown,https://en.wikipedia.org/wiki/Volvopluteus_michiganensis
+craterellus fallax,none,ridges,infundibuliform,decurrent,bare,yellow-orange,mycorrhizal,choice,https://en.wikipedia.org/wiki/Craterellus_fallax
+amanita augusta,"western yellow-veil,western yellow-veiled amanita",gills,convex,free,"ring,volva",white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Amanita_augusta
+volvopluteus asiaticus,none,gills,"ovate, flat",free,volva,"pink, pinkish-brown",saprotrophic,unknown,https://en.wikipedia.org/wiki/Volvopluteus_asiaticus
+cantharellus subpruinosus,none,ridges,infundibuliform,decurrent,bare,buff,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_subpruinosus
+rubroboletus dupainii,dupain's bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_dupainii
+rubroboletus rhodosanguineus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_rhodosanguineus
+inocybe griseolilacina,lilac leg fibrecap,gills,"convex, flat",adnexed,cortina,brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Inocybe_griseolilacina
+arrhenia spathulata,none,ridges,infundibuliform,decurrent,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Arrhenia_spathulata
+clitocybe albirhiza,snowmelt clitocybe,gills,"convex, umbonate","adnate, decurrent",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clitocybe_albirhiza
+floccularia albolanaripes,none,gills,"convex, umbonate",adnexed,ring,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Floccularia_albolanaripes
+mycena purpureofusca,purple edge bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_purpureofusca
+boletus subluridellus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Boletus_subluridellus
+russula densifolia,"crowded russula,reddening russula",gills,"convex, depressed","adnate, decurrent",bare,white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Russula_densifolia
+phlebia incarnata,none,ridges,offset,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Phlebia_incarnata
+inocybe whitei,"inocybe pudica,blushing inocybe",gills,"campanulate, conical","adnate, sinuate",bare,brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Inocybe_whitei
+tricholoma populinum,"poplar tricholoma,sandy,cottonwood mushroom",gills,convex,adnexed,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Tricholoma_populinum
+mycena alcalina,"alkaline mycena,stump fairy helmet",gills,conical,adnate,bare,white,saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Mycena_alcalina
+chlorophyllum hortense,none,gills,"convex, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Chlorophyllum_hortense
+amauroderma rude,none,pores,"flat, depressed",none,bare,brown,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Amauroderma_rude
+coprinopsis radiata,"coprinus radiatus,miniature woolly inky cap",gills,"ovate, flat",free,bare,black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Coprinopsis_radiata
+amanita roseotincta,none,gills,convex,free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_roseotincta
+callistosporium purpureomarginatum,none,gills,"convex, flat",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Callistosporium_purpureomarginatum
+hydnellum fuscoindicum,violet hedgehog,teeth,"convex, depressed",decurrent,bare,brown,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Hydnellum_fuscoindicum
+callistosporium luteo-olivaceum,none,gills,convex,"adnate, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Callistosporium_luteo-olivaceum
+xeromphalina cauticinalis,none,gills,"convex, flat","adnate, decurrent",bare,white,saprotrophic,"inedible, unknown",https://en.wikipedia.org/wiki/Xeromphalina_cauticinalis
+albatrellus flettii,blue-capped polypore,pores,"convex, depressed",decurrent,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Albatrellus_flettii
+paralepista flaccida,tawny funnel cap,gills,depressed,decurrent,bare,white,saprotrophic,"not recommended, edible",https://en.wikipedia.org/wiki/Paralepista_flaccida
+hapalopilus croceus,none,pores,flat,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Hapalopilus_croceus
+boletus rubriceps,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,choice,https://en.wikipedia.org/wiki/Boletus_rubriceps
+discina ancilis,pig's ears,smooth,umbilicate,decurrent,bare,brown,saprotrophic,"not recommended, edible",https://en.wikipedia.org/wiki/Discina_ancilis
+amanita pachycolea,"western grisette,stuntz's great ringless amanita",gills,campanulate,"free, adnate",volva,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Amanita_pachycolea
+tricholoma sejunctum,yellow blusher,gills,convex,adnexed,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Tricholoma_sejunctum
+arcangeliella crassa,gasteroid milk cap,gills,"convex, depressed",none,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Arcangeliella_crassa
+amanita fuliginea,east asian brown death cap,gills,convex,free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_fuliginea
+leucocoprinus cretaceus,none,gills,"convex, flat",free,ring,"white, cream",saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_cretaceus
+rubroboletus sinicus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_sinicus
+hydnum umbilicatum,depressed hedgehog,teeth,umbilicate,adnate,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Hydnum_umbilicatum
+lactifluus clarkeae,lactarius clarkeae,gills,"convex, infundibuliform","adnate, decurrent",bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactifluus_clarkeae
+clavulinopsis laeticolor,"golden fairy club,handsome club",smooth,none,none,bare,white,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Clavulinopsis_laeticolor
+stropharia hornemannii,"luxuriant ringstalk,lacerated stropharia",gills,convex,"adnate, seceding",ring,"purple-brown, purple-black",saprotrophic,"inedible, poisonous",https://en.wikipedia.org/wiki/Stropharia_hornemannii
+sphagnurus paluster,sphagnum greyling,gills,"conical, flat","adnate, sinuate",bare,white,parasitic,unknown,https://en.wikipedia.org/wiki/Sphagnurus_paluster
+macrolepiota mastoidea,none,gills,"umbonate, flat",free,ring,"white, cream",saprotrophic,edible,https://en.wikipedia.org/wiki/Macrolepiota_mastoidea
+pluteus americanus,none,gills,"convex, flat",free,bare,pink,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Pluteus_americanus
+austrocortinarius australiensis,skirt webcap,gills,convex,adnate,cortina,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Austrocortinarius_australiensis
+amanita sinicoflava,mandarin yellow ringless amanita,gills,convex,free,volva,white,mycorrhizal,"edible, not recommended",https://en.wikipedia.org/wiki/Amanita_sinicoflava
+rubroboletus lupinus,wolf bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_lupinus
+rubroboletus haematinus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Rubroboletus_haematinus
+aureoboletus moravicus,tawny bolete,pores,convex,adnate,bare,yellow,mycorrhizal,edible,https://en.wikipedia.org/wiki/Aureoboletus_moravicus
+suillus caerulescens,douglas-fir suillus,pores,"convex, flat","adnate, decurrent","bare, ring",brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_caerulescens
+imleria badia,bay bolete,pores,convex,adnate,bare,"olive, olive-brown",mycorrhizal,choice,https://en.wikipedia.org/wiki/Imleria_badia
+phlegmacium glaucopus,blue-foot webcap,gills,convex,"adnate, free",cortina,reddish-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Phlegmacium_glaucopus
+cortinarius alboviolaceus,none,gills,"conical, umbonate","adnexed, adnate",cortina,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Cortinarius_alboviolaceus
+auricularia auricula-judae,"wood ear,jelly ear,jew's ear",smooth,none,none,none,white,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Auricularia_auricula-judae
+gliophorus europerplexus,butterscotch waxcap,gills,umbonate,adnate,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Gliophorus_europerplexus
+cortinarius sanguineus,"blood red webcap,blood red cortinarius",gills,convex,adnate,cortina,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cortinarius_sanguineus
+cortinarius trivialis,none,gills,"convex, flat",adnexed,cortina,reddish-brown,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Cortinarius_trivialis
+hygrocybe nigrescens,blackening wax-cap,gills,conical,adnexed,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Hygrocybe_nigrescens
+lacrymaria lacrymabunda,weeping widow mushroom,gills,campanulate,adnate,bare,black,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Lacrymaria_lacrymabunda
+clavariadelphus pistillaris,common club coral,smooth,none,none,bare,white,mycorrhizal,"edible, edible, unpalatable",https://en.wikipedia.org/wiki/Clavariadelphus_pistillaris
+coprinopsis ephemeroides,ringed dung inky cap,gills,convex,"adnexed, free",ring,black,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Coprinopsis_ephemeroides
+phlegmacium subfoetidum,none,gills,"umbonate, convex",adnexed,cortina,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Phlegmacium_subfoetidum
+mycena crocea,walnut mycena,gills,"conical, convex",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_crocea
+tubaria furfuracea,"scurfy twiglet,totally tedious tubaria",gills,"convex, flat","adnate, decurrent","bare, ring",brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Tubaria_furfuracea
+pyrrhulomyces astragalinus,pinkish-orange pholiota,gills,"campanulate, convex","adnexed, free",bare,brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Pyrrhulomyces_astragalinus
+lactarius xanthogalactus,yellow-staining milkcap,gills,depressed,decurrent,bare,"white, yellow",mycorrhizal,unknown,https://en.wikipedia.org/wiki/Lactarius_xanthogalactus
+russula alutacea,none,gills,"convex, depressed","adnate, adnexed",bare,yellow,mycorrhizal,"unknown, not recommended",https://en.wikipedia.org/wiki/Russula_alutacea
+russula maculata,none,gills,"convex, depressed","adnexed, free",bare,yellow,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Russula_maculata
+craterellus calicornucopioides,none,ridges,infundibuliform,decurrent,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Craterellus_calicornucopioides
+stropharia coronilla,"garland roundhead,garland stropharia",gills,"convex, flat",adnexed,ring,blackish-brown,saprotrophic,poisonous,https://en.wikipedia.org/wiki/Stropharia_coronilla
+chalciporus rubinellus,purple-red bolete,pores,"convex, conical",adnate,bare,brown,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Chalciporus_rubinellus
+cortinarius elatior,wrinkled webcap,gills,"conical, umbonate",adnate,cortina,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Cortinarius_elatior
+aureoboletus betula,shaggy stalked bolete,pores,convex,adnate,bare,olive,mycorrhizal,edible,https://en.wikipedia.org/wiki/Aureoboletus_betula
+cortinarius evernius,none,gills,"campanulate, flat","adnate, sinuate",cortina,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Cortinarius_evernius
+cantharocybe virosa,none,gills,convex,"adnate, decurrent",volva,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Cantharocybe_virosa
+amanita manginiana,"mangin's false death cap,chiu's false death cap",gills,umbonate,free,volva,white,mycorrhizal,"not recommended, unknown",https://en.wikipedia.org/wiki/Amanita_manginiana
+amanita basii,none,gills,umbonate,free,volva,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Amanita_basii
+amanita umbrinolutea,umber-zoned ringless amanita,gills,umbonate,free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_umbrinolutea
+amanita flavorubens,"yellow american blusher,yellow american blushing amanita",gills,umbonate,free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_flavorubens
+amanita virgineoides,false virgin's lepidella,gills,umbonate,free,volva,white,mycorrhizal,"unknown, not recommended",https://en.wikipedia.org/wiki/Amanita_virgineoides
+amanita spreta,hated amanita,gills,umbonate,free,volva,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Amanita_spreta
+amanita longipes,none,gills,umbonate,free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_longipes
+lentinus arcularius,spring polypore,pores,"convex, depressed",decurrent,bare,"cream, white",saprotrophic,inedible,https://en.wikipedia.org/wiki/Lentinus_arcularius
+amanita multisquamosa,small funnel-veil amanita,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_multisquamosa
+amanita rhopalopus,none,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_rhopalopus
+amanita proxima,none,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_proxima
+amanita chlorinosma,chlorine lepidella,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_chlorinosma
+tricholomopsis decora,prunes and custard,gills,"convex, depressed",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Tricholomopsis_decora
+agaricus amicosus,none,gills,"convex, flat",free,ring,brown,saprotrophic,choice,https://en.wikipedia.org/wiki/Agaricus_amicosus
+pleurotus cornucopiae,none,gills,offset,decurrent,ring,white,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Pleurotus_cornucopiae
+gymnopus fusipes,collybia fusipes,gills,convex,adnate,bare,white,"parasitic, saprotrophic",edible,https://en.wikipedia.org/wiki/Gymnopus_fusipes
+pluteus lutescens,none,gills,convex,free,bare,pink,saprotrophic,unknown,https://en.wikipedia.org/wiki/Pluteus_lutescens
+collybiopsis peronata,wood woolly-foot,gills,convex,free,bare,white,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Collybiopsis_peronata
+inosperma calamistratum,none,gills,"campanulate, convex","adnate, free",bare,brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Inosperma_calamistratum
+rubroboletus esculentus,none,pores,convex,adnate,bare,olive-brown,mycorrhizal,"unknown, choice",https://en.wikipedia.org/wiki/Rubroboletus_esculentus
+amanita kotohiraensis,none,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_kotohiraensis
+agrocybe sororia,none,gills,convex,adnate,bare,brown,saprotrophic,unpalatable,https://en.wikipedia.org/wiki/Agrocybe_sororia
+mycena alnicola,none,gills,"conical, campanulate",adnate,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Mycena_alnicola
+ramaria flavosaponaria,none,smooth,none,none,bare,"ochre, buff",mycorrhizal,unknown,https://en.wikipedia.org/wiki/Ramaria_flavosaponaria
+amanita solaniolens,old potato amanita,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_solaniolens
+amanita elongata,peck's yellow dust amanita,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_elongata
+cantharellus amethysteus,amethyst chanterelle,ridges,"flat, depressed",decurrent,bare,"white, yellow",mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_amethysteus
+mycetinis scorodonius,marasmius scorodonius,gills,convex,"adnate, adnexed",bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Mycetinis_scorodonius
+mycetinis querceus,marasmius querceus,gills,convex,"adnate, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycetinis_querceus
+rhizomarasmius epidryas,"marasmius epidryas,mycetinis epidryas",gills,"depressed, convex",adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Rhizomarasmius_epidryas
+rhizomarasmius setosus,"marasmius setosus,marasmius recubans",gills,convex,"adnate, subdecurrent",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Rhizomarasmius_setosus
+rhizomarasmius undatus,marasmius undatus,gills,convex,"adnate, subdecurrent",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Rhizomarasmius_undatus
+tricholoma murrillianum,"ponderosa mushroom,pine mushroom,western matsutake",gills,convex,"adnate, adnexed",ring,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Tricholoma_murrillianum
+hygrocybe flavescens,golden waxy cap,gills,conical,adnexed,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Hygrocybe_flavescens
+hygrocybe singeri,witch's hat,gills,conical,adnexed,bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Hygrocybe_singeri
+laccaria proxima,none,gills,"convex, depressed","adnate, decurrent",bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Laccaria_proxima
+laccaria fraterna,none,gills,"convex, depressed","adnate, decurrent",bare,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Laccaria_fraterna
+amanita mutabilis,none,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_mutabilis
+suillus kaibabensis,none,pores,convex,adnate,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Suillus_kaibabensis
+lactarius salmonicolor,none,gills,"depressed, convex",decurrent,bare,yellow-orange,mycorrhizal,"edible, choice",https://en.wikipedia.org/wiki/Lactarius_salmonicolor
+mycena lazulina,none,gills,convex,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_lazulina
+craterellus cinereus,"black chanterelle,ashen chanterelle",ridges,infundibuliform,decurrent,bare,white,mycorrhizal,edible,https://en.wikipedia.org/wiki/Craterellus_cinereus
+infundibulicybe gibba,"clitocybe gibba,common funnel,funnel cap",gills,infundibuliform,decurrent,bare,white,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Infundibulicybe_gibba
+hydnellum scabrosum,"bitter tooth,bitter hedgehog",teeth,"convex, flat","subdecurrent, adnate",bare,brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Hydnellum_scabrosum
+amanita crenulata,poison champagne amanita,gills,flat,adnate,ring,white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_crenulata
+thelephora terrestris,"common fiber vase,earthfan fungus",smooth,none,none,bare,purple-brown,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Thelephora_terrestris
+amanita pyramidifera,none,gills,convex,free,bare,white,mycorrhizal,inedible,https://en.wikipedia.org/wiki/Amanita_pyramidifera
+marasmius cohaerens,none,gills,"convex, campanulate",adnexed,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Marasmius_cohaerens
+cyclocybe parasitica,"tawaka,poplar mushroom",gills,convex,adnate,ring,blackish-brown,parasitic,edible,https://en.wikipedia.org/wiki/Cyclocybe_parasitica
+marasmius wynneae,none,gills,"convex, conical",adnexed,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Marasmius_wynneae
+ganoderma sinense,none,pores,offset,none,bare,brown,saprotrophic,"edible, edible, unpalatable",https://en.wikipedia.org/wiki/Ganoderma_sinense
+fomitopsis mounceae,none,pores,none,none,none,white,"saprotrophic, parasitic",inedible,https://en.wikipedia.org/wiki/Fomitopsis_mounceae
+mycena amicta,coldfoot bonnet,gills,conical,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Mycena_amicta
+abortiporus biennis,blushing rosette,pores,"flat, depressed",decurrent,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Abortiporus_biennis
+chlorophyllum agaricoides,"gasteroid lepiota,puffball parasol,false puffball,puffball agaric",glebal,conical,none,bare,olive-brown,saprotrophic,edible,https://en.wikipedia.org/wiki/Chlorophyllum_agaricoides
+entoloma sericellum,none,gills,convex,"adnate, adnexed",bare,pink,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Entoloma_sericellum
+hohenbuehelia petaloides,"leaflike oyster,shoehorn oyster mushroom",gills,"convex, depressed",decurrent,bare,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Hohenbuehelia_petaloides
+lentinellus ursinus,none,gills,convex,decurrent,bare,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Lentinellus_ursinus
+pseudocraterellus undulatus,sinuous chanterelle,ridges,infundibuliform,decurrent,bare,"white, yellow",mycorrhizal,edible,https://en.wikipedia.org/wiki/Pseudocraterellus_undulatus
+volvariella leucocalix,none,gills,umbonate,free,volva,salmon,saprotrophic,unknown,https://en.wikipedia.org/wiki/Volvariella_leucocalix
+hypsizygus ulmarius,elm oyster mushroom,gills,"convex, depressed","adnate, decurrent",bare,"white, cream","saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Hypsizygus_ulmarius
+cantharellus enelensis,none,ridges,infundibuliform,decurrent,bare,yellow-orange,mycorrhizal,edible,https://en.wikipedia.org/wiki/Cantharellus_enelensis
+psilocybe angulospora,none,gills,"umbonate, campanulate",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_angulospora
+psilocybe alutacea,none,gills,"conical, convex",adnate,bare,purple-brown,saprotrophic,psychoactive,https://en.wikipedia.org/wiki/Psilocybe_alutacea
+clavogaster virescens,none,glebal,"ovate, conical",none,bare,reddish-brown,saprotrophic,inedible,https://en.wikipedia.org/wiki/Clavogaster_virescens
+candolleomyces candolleanus,none,gills,"conical, convex","adnate, seceding","bare, ring",purple-brown,saprotrophic,"edible, not recommended",https://en.wikipedia.org/wiki/Candolleomyces_candolleanus
+phaeotremella foliacea,"leafy brain,jelly leaf,brown witch's butter",smooth,none,none,none,white,parasitic,edible,https://en.wikipedia.org/wiki/Phaeotremella_foliacea
+plicaturopsis crispa,"crimped gill,crispling",ridges,offset,none,none,white,saprotrophic,inedible,https://en.wikipedia.org/wiki/Plicaturopsis_crispa
+panus fasciatus,none,gills,infundibuliform,decurrent,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Panus_fasciatus
+crepidotus praecipuus,rusty-gilled conch,gills,convex,free,none,yellow-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Crepidotus_praecipuus
+crepidotus variabilis,variable oysterling,gills,convex,free,none,"buff, pink",saprotrophic,unknown,https://en.wikipedia.org/wiki/Crepidotus_variabilis
+crepidotus epibryus,grass oysterling,gills,convex,free,none,buff,saprotrophic,inedible,https://en.wikipedia.org/wiki/Crepidotus_epibryus
+crepidotus cinnabarinus,none,gills,convex,adnexed,none,buff,saprotrophic,inedible,https://en.wikipedia.org/wiki/Crepidotus_cinnabarinus
+micropsalliota albofelina,none,gills,convex,free,bare,brown,saprotrophic,not recommended,https://en.wikipedia.org/wiki/Micropsalliota_albofelina
+leucoagaricus badhamii,blushing dapperling,gills,"ovate, flat",free,ring,white,saprotrophic,"unknown, poisonous",https://en.wikipedia.org/wiki/Leucoagaricus_badhamii
+leucocoprinus ianthinus,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_ianthinus
+leucocoprinus straminellus,none,gills,"campanulate, ovate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_straminellus
+leucocoprinus flavescens,none,gills,"campanulate, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_flavescens
+leucocoprinus brunneoluteus,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_brunneoluteus
+leucoagaricus barssii,"smoky dapperling,gray parasol",gills,"convex, depressed",free,ring,"white, cream",saprotrophic,edible,https://en.wikipedia.org/wiki/Leucoagaricus_barssii
+leucoagaricus meleagris,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_meleagris
+leucoagaricus nympharum,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_nympharum
+amanita groenlandica,none,gills,"convex, umbonate",free,volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_groenlandica
+britzelmayria multipedata,clustered brittlestem,gills,"conical, convex","adnate, adnexed",bare,purple-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Britzelmayria_multipedata
+cystoagaricus strobilomyces,none,gills,"convex, campanulate","adnate, adnexed",bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Cystoagaricus_strobilomyces
+coprinopsis martinii,none,gills,"convex, campanulate",free,bare,black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Coprinopsis_martinii
+coprinopsis nivea,snowy inkcap,gills,campanulate,adnate,bare,black,saprotrophic,unknown,https://en.wikipedia.org/wiki/Coprinopsis_nivea
+leucocoprinus griseofloccosus,none,gills,convex,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_griseofloccosus
+leucocoprinus cygneus,none,gills,campanulate,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_cygneus
+leucocoprinus magnicystidiosus,none,gills,"campanulate, conical",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_magnicystidiosus
+leucocoprinus longistriatus,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_longistriatus
+leucocoprinus breviramus,none,gills,"conical, campanulate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_breviramus
+leucocoprinus tricolor,none,gills,"ovate, campanulate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_tricolor
+leucocoprinus medioflavus,none,gills,"depressed, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_medioflavus
+leucocoprinus brunnescens,none,gills,"convex, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_brunnescens
+leucocoprinus castroi,none,gills,"conical, campanulate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_castroi
+leucocoprinus biornatus,none,gills,"campanulate, convex",free,ring,"white, cream",saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_biornatus
+leucocoprinus acutoumbonatus,none,gills,"convex, campanulate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_acutoumbonatus
+leucocoprinus holospilotus,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_holospilotus
+leucocoprinus delicatulus,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_delicatulus
+leucocoprinus munnarensis,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_munnarensis
+leucocoprinus pusillus,none,gills,convex,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_pusillus
+leucocoprinus bakeri,none,gills,convex,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_bakeri
+leucocoprinus beelianus,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_beelianus
+leucocoprinus muticolor,none,gills,"convex, campanulate",free,ring,"white, cream",saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_muticolor
+leucocoprinus discoideus,"batakania,bepokua pembe",gills,"campanulate, conical",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_discoideus
+leucocoprinus elaeidis,elela,gills,"campanulate, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_elaeidis
+leucocoprinus citrinellus,none,gills,"umbonate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_citrinellus
+leucocoprinus austrofragilis,none,gills,convex,free,ring,"white, cream",saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_austrofragilis
+leucocoprinus heinemannii,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_heinemannii
+leucocoprinus violaceus,none,gills,"campanulate, conical",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_violaceus
+leucocoprinus velutipes,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_velutipes
+leucocoprinus submontagnei,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_submontagnei
+leucocoprinus tropicus,none,gills,"convex, depressed",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_tropicus
+leucocoprinus zeylanicus,none,gills,"campanulate, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_zeylanicus
+macrolepiota zeyheri,"djilo,n'volo mighom",gills,convex,free,ring,"pink, white",saprotrophic,edible,https://en.wikipedia.org/wiki/Macrolepiota_zeyheri
+leucocoprinus subglobisporus,none,gills,"campanulate, depressed",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_subglobisporus
+leucocoprinus tenellus,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_tenellus
+leucocoprinus martinicensis,none,gills,"campanulate, flat",free,bare,"white, yellow",saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_martinicensis
+leucocoprinus venezuelanus,none,gills,"campanulate, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_venezuelanus
+leucocoprinus magnusianus,none,gills,campanulate,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_magnusianus
+amanita hygroscopica,"amanita hygroscopia,pink-gilled destroying angel",gills,"convex, flat",free,"ring,volva",white,mycorrhizal,deadly,https://en.wikipedia.org/wiki/Amanita_hygroscopica
+leucocoprinus viridiflavoides,none,gills,"convex, umbonate",free,ring,yellow,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_viridiflavoides
+leucocoprinus nanianae,none,gills,"convex, flat",free,ring,"cream, white",saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_nanianae
+leucocoprinus tanetensis,none,gills,convex,free,ring,cream,saprotrophic,edible,https://en.wikipedia.org/wiki/Leucocoprinus_tanetensis
+leucocoprinus nigricans,none,gills,"conical, flat",adnexed,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_nigricans
+leucocoprinus truncatus,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_truncatus
+leucocoprinus armeniacoflavus,none,gills,"campanulate, umbonate",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_armeniacoflavus
+leucoagaricus lacrymans,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_lacrymans
+leucocoprinus flavipes,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_flavipes
+collybiopsis confluens,clustered toughshank,gills,"convex, flat","adnate, free",bare,"yellow, white",saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Collybiopsis_confluens
+amanita muscaria var. inzengae,inzenga's fly agaric,gills,"flat, convex",free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_muscaria_var._inzengae
+pleurotus opuntiae,none,gills,offset,decurrent,ring,white,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Pleurotus_opuntiae
+amanita polypyramis,none,gills,"convex, flat",free,"ring,volva",white,mycorrhizal,"unknown, poisonous",https://en.wikipedia.org/wiki/Amanita_polypyramis
+amanita ibotengutake,none,gills,flat,free,"ring,volva",white,mycorrhizal,"poisonous, psychoactive",https://en.wikipedia.org/wiki/Amanita_ibotengutake
+pleurotus euosmus,tarragon oyster mushroom,gills,"convex, depressed",decurrent,bare,pink,"saprotrophic, parasitic",choice,https://en.wikipedia.org/wiki/Pleurotus_euosmus
+pleurotus parsonsiae,velvet oyster mushroom,gills,"offset, depressed",decurrent,bare,white,"saprotrophic, parasitic",edible,https://en.wikipedia.org/wiki/Pleurotus_parsonsiae
+leucocoprinus russoceps,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_russoceps
+leucocoprinus bulbipes,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_bulbipes
+leucocoprinus antillarum,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_antillarum
+leucocoprinus fuligineopunctatus,none,gills,"campanulate, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_fuligineopunctatus
+leucocoprinus microlepis,none,gills,"flat, convex",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_microlepis
+leucocoprinus scissus,none,gills,"flat, conical",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_scissus
+leucoagaricus tricolor,none,gills,convex,free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_tricolor
+cystolepiota albogilva,none,gills,convex,free,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Cystolepiota_albogilva
+cystolepiota amazonica,none,gills,campanulate,"free, adnexed",bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Cystolepiota_amazonica
+hericium clathroides,none,teeth,none,none,none,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Hericium_clathroides
+leucoagaricus griseosquamosus,none,gills,"umbonate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_griseosquamosus
+leucoagaricus croceovelutinus,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_croceovelutinus
+leucoagaricus croceus,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_croceus
+leucoagaricus laosensis,none,gills,"convex, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucoagaricus_laosensis
+hericium flagellum,none,teeth,none,none,none,white,saprotrophic,edible,https://en.wikipedia.org/wiki/Hericium_flagellum
+clitocybula ellipsospora,none,gills,convex,adnate,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clitocybula_ellipsospora
+boletus nobilis,noble bolete,pores,convex,adnate,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Boletus_nobilis
+cantharellus anzutake,japanese golden chanterelle,ridges,infundibuliform,decurrent,bare,cream,mycorrhizal,choice,https://en.wikipedia.org/wiki/Cantharellus_anzutake
+boletus nobilissimus,none,pores,convex,adnate,bare,brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Boletus_nobilissimus
+aleurodiscus oakesii,none,smooth,depressed,none,none,cream,saprotrophic,inedible,https://en.wikipedia.org/wiki/Aleurodiscus_oakesii
+boletinellus monticola,none,pores,flat,none,bare,yellow,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Boletinellus_monticola
+boletus patrioticus,patriotic bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,unpalatable,https://en.wikipedia.org/wiki/Boletus_patrioticus
+chroogomphus ochraceus,none,gills,"conical, flat",decurrent,bare,black,parasitic,edible,https://en.wikipedia.org/wiki/Chroogomphus_ochraceus
+agaricus lanatoniger,none,gills,convex,free,ring,blackish-brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Agaricus_lanatoniger
+strobilurus trullisatus,none,gills,convex,adnexed,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Strobilurus_trullisatus
+amanita arenicola,beach-loving ringless amanita,gills,"depressed, infundibuliform",free,volva,yellow,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_arenicola
+conocybe macrospora,none,gills,"campanulate, convex",adnexed,bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_macrospora
+zhuliangomyces illinitus,"limacella illinita,dripping slimecap,overflowing slimy stem",gills,"convex, flat",free,bare,"cream, white",saprotrophic,unknown,https://en.wikipedia.org/wiki/Zhuliangomyces_illinitus
+aureoboletus flaviporus,viscid bolete,pores,convex,adnate,bare,olive-brown,mycorrhizal,edible,https://en.wikipedia.org/wiki/Aureoboletus_flaviporus
+clavulinopsis corniculata,meadow coral,smooth,none,none,bare,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Clavulinopsis_corniculata
+amanita silvicola,"woodland amanita,kauffman's forest amanita",gills,"convex, flat","free, adnate",volva,white,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Amanita_silvicola
+collybia brunneocephala,"brown blewit,brownit,clitocybe brunneocephala",gills,"convex, flat","adnate, decurrent",bare,pink,saprotrophic,choice,https://en.wikipedia.org/wiki/Collybia_brunneocephala
+amauroderma rugosum,none,pores,"flat, depressed",subdecurrent,bare,brown,saprotrophic,"unknown, inedible",https://en.wikipedia.org/wiki/Amauroderma_rugosum
+leucocoprinus attinorum,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_attinorum
+leucocoprinus dunensis,none,gills,"campanulate, flat",free,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Leucocoprinus_dunensis
+calonarius viridirubescens,"cortinarius viridirubescens,yellow-green cort",gills,convex,emarginate,cortina,reddish-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Calonarius_viridirubescens
+craterellus atrocinereus,"black chanterelle,california,black chanterelle",ridges,infundibuliform,decurrent,bare,white,mycorrhizal,choice,https://en.wikipedia.org/wiki/Craterellus_atrocinereus
+conocybe anthuriae,none,gills,"campanulate, convex",adnate,volva,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_anthuriae
+conocybe volvata,none,gills,"campanulate, convex",adnexed,volva,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_volvata
+conocybe volviradicata,none,gills,"campanulate, conical",free,volva,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_volviradicata
+conocybe corneri,none,gills,"conical, flat","free, adnexed",volva,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_corneri
+conocybe vaginata,none,gills,"conical, ovate","free, adnexed",volva,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_vaginata
+conocybe volviornata,none,gills,conical,adnexed,volva,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_volviornata
+conocybe crispella,none,gills,conical,free,bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_crispella
+conocybe mesospora,none,gills,"ovate, convex",adnexed,bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_mesospora
+conocybe subxerophytica,none,gills,"convex, campanulate",adnate,bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_subxerophytica
+conocybe affinis,none,gills,"convex, campanulate",adnate,bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_affinis
+entoloma ferruginans,bleachy entoloma,gills,convex,"free, emarginate",bare,"pink, salmon",saprotrophic,not recommended,https://en.wikipedia.org/wiki/Entoloma_ferruginans
+conocybe subpallida,none,gills,"convex, conical",adnate,bare,brown,saprotrophic,unknown,https://en.wikipedia.org/wiki/Conocybe_subpallida
+lactarius aurantiacus,orange milkcap,gills,depressed,adnate,bare,cream,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Lactarius_aurantiacus
+amanita pantherinoides,"western panther,western american false panther",gills,"convex, flat",adnexed,"ring,volva",white,mycorrhizal,poisonous,https://en.wikipedia.org/wiki/Amanita_pantherinoides
+amanita constricta,"constricted grisette,great grey-sack ringless amanita",gills,"convex, flat",adnexed,volva,white,mycorrhizal,not recommended,https://en.wikipedia.org/wiki/Amanita_constricta
+cystodermella granulosa,brickbrown powdercap,gills,"convex, flat",adnexed,ring,white,saprotrophic,unknown,https://en.wikipedia.org/wiki/Cystodermella_granulosa
+hortiboletus coccyginus,sumac-colored bolete,pores,convex,adnexed,bare,olive-brown,mycorrhizal,unknown,https://en.wikipedia.org/wiki/Hortiboletus_coccyginus
