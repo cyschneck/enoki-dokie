@@ -1,0 +1,11 @@
+name: enokie-dokie
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+  - ipython
+  - jupyter_client
+  - jupyterlab
