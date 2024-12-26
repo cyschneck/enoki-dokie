@@ -57,6 +57,7 @@ def _retrieve_morphbox():
 
 	# testing
 	#wiki_links = [
+	#			"https://en.wikipedia.org/wiki/Amanita_muscaria",
 	#			"https://en.wikipedia.org/wiki/Hypomyces_lactifluorum",
 	#			"https://en.wikipedia.org/wiki/Amanita_phalloides",
 	#			"https://en.wikipedia.org/wiki/Calvatia_gigantea",
@@ -165,9 +166,12 @@ def _retrieve_morphbox():
 				# gill type
 				if i == 3: 
 					gill.append(info.lower())
-				# stipe character
+				# stipe type
 				if i == 4: 
-					stipe.append(info.lower())
+					if info.lower() == "ring,volva": # accounts for ring AND volva, instead of either/or
+						stipe.append("ring and volva")
+					else:
+						stipe.append(info.lower())
 				# spore color
 				if i == 5:
 					spore_color.append(info.lower())
