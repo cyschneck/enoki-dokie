@@ -1,4 +1,4 @@
-name: enokie-dokie
+name: enoki-dokie
 channels:
   - conda-forge
 dependencies:

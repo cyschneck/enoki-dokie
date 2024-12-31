@@ -1,6 +1,16 @@
 # enokie-dokie
 Mushroom database and analysis
 
+## Overview Data
+
+![cap+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/cap_shape.png)
+![ecological+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/ecological_type.png)
+![edible+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/edible.png)
+![gill+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/gill_type.png)
+![hymenium+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/hymenium_type.png)
+![spore+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/spore_color.png)
+![stipe+png](https://raw.githubusercontent.com/cyschneck/enoki-dokie/main/imgs/stipe_type.png)
+
 ## Development Environment
 For developers, to run or test against this github repo, a development environment can be created via conda
 
