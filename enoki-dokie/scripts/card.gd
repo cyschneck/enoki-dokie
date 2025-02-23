@@ -9,9 +9,8 @@ enum SPORE_COLOR{WHITE, PURPLE, YELLOW, BROWN, PINK, BLACK, GREEN}
 enum ECOLOGICAL_TYPE{MYCORRHIZAL, SAPROTROPHIC, PARASITIC}
 enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, INEDIBLE, UNKNOWN}
 
-@export var cardName: String = "Default Card Name"
-@export var mushroomName: String = "[b]Mushroom[/b]"
-@export var scientificName: String = "[i]Scientific Name[/i]"
+@export var commonName: String = "Common Name"
+@export var scientificName: String = "Scientific Name"
 @export var mushhroomDescription: String = "Placeholder Description Text"
 
 @export var capType: CAP_TYPE
@@ -20,15 +19,19 @@ enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, IN
 @export var gillType: GILL_TYPE
 @export var hymeniumType: HYMENIUM_TYPE
 @export var sporeColor: SPORE_COLOR
+@export var stipeType: STIPE_TYPE
 
 @onready var mushroom_items: GridContainer = %MushroomItems
-@onready var mushroom_name: RichTextLabel = %MushroomName
+@onready var common_name: RichTextLabel = %CommonName
 @onready var science_name: RichTextLabel = %ScienceName
+@onready var description: RichTextLabel = %Description
 
 func _ready() -> void:
-	mushroom_name.text = mushroomName
-	science_name.text = scientificName
+	common_name.text = "[b]" + commonName + "[/b]"
+	science_name.text = "[i]" + scientificName + "[/i]"
+	description.text = "[center][i]" + mushhroomDescription + "[/i][/center]"
 
+	# set mushroom features
 	for item in mushroom_items.get_children():
 		match item.name:
 			"CapType": 

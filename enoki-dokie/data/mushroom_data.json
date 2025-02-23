@@ -1,0 +1,86 @@
+{
+  "1": {
+	"common name": "mica cap",
+	"scientific name": "coprinellus micaceus",
+	"hymenium type": "gills",
+	"cap shape": "campanulate",
+	"gill type": "adnexed",
+	"stipe type": "bare",
+	"spore color": "black",
+	"ecological type": "saprotrophic",
+	"edible": "edible",
+	"description": "bushels of mushrooms found on dead wood"
+  },
+  "2": {
+	"common name": "fly agaric",
+	"scientific name": "amanita muscaria",
+	"hymenium type": "gills",
+	"cap shape": "flat",
+	"gill type": "free",
+	"stipe type": "ring_volva",
+	"spore color": "white",
+	"ecological type": "mycorrhizal",
+	"edible": "poisonous/psychoactive",
+	"description": "iconic spotted red capped mushroom found in dead wood"
+  },
+  "3": {
+	"common name": "death cap",
+	"scientific name": "amanita phalloides",
+	"hymenium type": "gills",
+	"cap shape": "convex",
+	"gill type": "free",
+	"stipe type": "ring and volva",
+	"spore color": "white",
+	"ecological type": "mycorrhizal",
+	"edible": "deadly",
+	"description": "a mushroom that will kill you as soon as look at you"
+  },
+  "4": {
+	"common name": "velvet foot",
+	"scientific name": "flammulina velutipes",
+	"hymenium type": "gills",
+	"cap shape": "convex",
+	"gill type": "adnate",
+	"stipe type": "bare",
+	"spore color": "white",
+	"ecological type": "saprotrophic",
+	"edible": "choice",
+	"description": "a delicious forest snack which grows in dead trees"
+  },
+  "5": {
+	"common name": "birch polypore",
+	"scientific name": "fomitopsis betulina",
+	"hymenium type": "pores",
+	"cap shape": "none",
+	"gill type": "decurrent",
+	"stipe type": "none",
+	"spore color": "white",
+	"ecological type": "parasitic",
+	"edible": "inedible",
+	"description": "hardy winter over mushroom growing out of birch trees"
+  },
+  "6": {
+	"common name": "jack o'latern",
+	"scientific name": "omphalotus olearius",
+	"hymenium type": "gills",
+	"cap shape": "infundibuliform",
+	"gill type": "decurrent",
+	"stipe type": "bare",
+	"spore color": "yellow",
+	"ecological type": "saprotrophic",
+	"edible": "poisonous",
+	"description": "emits a bioluminescent glow visible known as foxfire"
+  },
+  "7": {
+	"common name": "dryad's saddle",
+	"scientific name": "cerioporus squamosus",
+	"hymenium type": "pores",
+	"cap shape": "depressed",
+	"gill type": "decurrent",
+	"stipe type": "bare",
+	"spore color": "white",
+	"ecological type": "saprotrophic",
+	"edible": "edible",
+	"description": "a large wood hungry mushroom"
+  }
+}
