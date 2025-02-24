@@ -55,30 +55,101 @@ columns = 2
 [node name="CapType" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
+expand_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/CapType"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
 
 [node name="EcologicalType" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
 
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/EcologicalType"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
+
 [node name="EdibleType" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
+
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/EdibleType"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
 
 [node name="GillType" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
 
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/GillType"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
+
 [node name="HymeniumType" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
+
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/HymeniumType"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
 
 [node name="SporeColor" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
 
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/SporeColor"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
+
 [node name="StipeType" type="TextureRect" parent="BackgroundColor/MushroomItems"]
 layout_mode = 2
 texture = ExtResource("1_mrost")
+
+[node name="TextureRect" type="TextureRect" parent="BackgroundColor/MushroomItems/StipeType"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+flip_v = true
 
 [node name="ColorRect" type="ColorRect" parent="BackgroundColor"]
 layout_mode = 2

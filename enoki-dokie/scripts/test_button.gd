@@ -12,11 +12,11 @@ func _on_pressed() -> void:
 	var cards_to_make = ["death cap", "mica cap", "birch polypore", "jack o'lantern"]
 	for card_name in cards_to_make:
 		var mushroom_card = CARD_PREFAB.instantiate()
-		mushroom_card.name = card_name.capitalize()
-		set_card(card_name, mushroom_card)
+		set_card_characteristics(card_name, mushroom_card)
 		card_manager.add_child(mushroom_card)
 
-func set_card(mushroom_name: String, mushroom_card: Object):
+func set_card_characteristics(mushroom_name: String, mushroom_card: Object):
+	mushroom_card.name = mushroom_name.capitalize()
 	var json_data_dict = card_manager.cards[mushroom_name]
 	mushroom_card.commonName = mushroom_name.capitalize()
 	mushroom_card.scientificName = json_data_dict["scientific name"].capitalize()

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dll1115y5ou6u"
-path="res://.godot/imported/capShape_no_cap.png-dc7f0d83f2d8b5c9467d03fc42a3690e.ctex"
+uid="uid://ddjaup6fcemmg"
+path="res://.godot/imported/ecologicalType_saprotrophic.png-ee7fdd05359def7e2bd893a94b5c7171.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/card_features/capShape_no_cap.png"
-dest_files=["res://.godot/imported/capShape_no_cap.png-dc7f0d83f2d8b5c9467d03fc42a3690e.ctex"]
+source_file="res://sprites/card_features/ecologicalType_saprotrophic.png"
+dest_files=["res://.godot/imported/ecologicalType_saprotrophic.png-ee7fdd05359def7e2bd893a94b5c7171.ctex"]
 
 [params]
 
