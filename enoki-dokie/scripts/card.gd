@@ -1,6 +1,7 @@
 extends Node2D
 
 const DEFAULT_ICON = preload("res://sprites/circle-48.png")
+
 enum CAP_TYPE{CAMPANULATE, CONCICAL, CONVEX, DEPRESSED, FLAT, INFUNDIBULIFORM, OFFSET, OVATE, UMBILLICATE, UMBONATE, NONE, NA}
 enum GILL_TYPE{ADNATE, ADNEXED, DECURRENT, EMARGINATE, FREE, SECEDING, SINUATE, SUBDECURRENT, NONE, NA}
 enum HYMENIUM_TYPE{GILLS, GLEBA, PORES, RIDGES, SMOOTH, TEETH}
@@ -11,7 +12,7 @@ enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, IN
 
 @export var commonName: String = "Common Name"
 @export var scientificName: String = "Scientific Name"
-@export var mushhroomDescription: String = "Placeholder Description Text"
+@export var mushroomDescription: String = "Placeholder Description Text"
 
 @export var capType: CAP_TYPE
 @export var ecologicalType: ECOLOGICAL_TYPE
@@ -29,7 +30,7 @@ enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, IN
 func _ready() -> void:
 	common_name.text = "[b]" + commonName + "[/b]"
 	science_name.text = "[i]" + scientificName + "[/i]"
-	description.text = "[center][i]" + mushhroomDescription + "[/i][/center]"
+	description.text = "[center][i]" + mushroomDescription + "[/i][/center]"
 
 	# set mushroom features
 	for item in mushroom_items.get_children():

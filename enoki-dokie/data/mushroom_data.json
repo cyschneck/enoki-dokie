@@ -1,5 +1,5 @@
 {
-  "1": {
+  "mica cap": {
 	"common name": "mica cap",
 	"scientific name": "coprinellus micaceus",
 	"hymenium type": "gills",
@@ -11,7 +11,7 @@
 	"edible": "edible",
 	"description": "bushels of mushrooms found on dead wood"
   },
-  "2": {
+  "fly agaric": {
 	"common name": "fly agaric",
 	"scientific name": "amanita muscaria",
 	"hymenium type": "gills",
@@ -23,19 +23,19 @@
 	"edible": "poisonous/psychoactive",
 	"description": "iconic spotted red capped mushroom found in dead wood"
   },
-  "3": {
+  "death cap": {
 	"common name": "death cap",
 	"scientific name": "amanita phalloides",
 	"hymenium type": "gills",
 	"cap shape": "convex",
 	"gill type": "free",
-	"stipe type": "ring and volva",
+	"stipe type": "ring_volva",
 	"spore color": "white",
 	"ecological type": "mycorrhizal",
 	"edible": "deadly",
 	"description": "a mushroom that will kill you as soon as look at you"
   },
-  "4": {
+  "velvet foot": {
 	"common name": "velvet foot",
 	"scientific name": "flammulina velutipes",
 	"hymenium type": "gills",
@@ -47,7 +47,7 @@
 	"edible": "choice",
 	"description": "a delicious forest snack which grows in dead trees"
   },
-  "5": {
+  "birch polypore": {
 	"common name": "birch polypore",
 	"scientific name": "fomitopsis betulina",
 	"hymenium type": "pores",
@@ -59,8 +59,8 @@
 	"edible": "inedible",
 	"description": "hardy winter over mushroom growing out of birch trees"
   },
-  "6": {
-	"common name": "jack o'latern",
+  "jack o'lantern": {
+	"common name": "jack o'lantern",
 	"scientific name": "omphalotus olearius",
 	"hymenium type": "gills",
 	"cap shape": "infundibuliform",
@@ -71,7 +71,7 @@
 	"edible": "poisonous",
 	"description": "emits a bioluminescent glow visible known as foxfire"
   },
-  "7": {
+  "dryad's saddle": {
 	"common name": "dryad's saddle",
 	"scientific name": "cerioporus squamosus",
 	"hymenium type": "pores",
