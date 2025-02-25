@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://bekpntneif28c"]
+[gd_scene load_steps=4 format=3 uid="uid://bekpntneif28c"]
 
 [ext_resource type="Script" path="res://scripts/card.gd" id="1_adq8y"]
 [ext_resource type="Texture2D" uid="uid://cv26evckgfc6u" path="res://sprites/circle-48.png" id="1_mrost"]
+[ext_resource type="Texture2D" uid="uid://dy6rqfgm341uh" path="res://sprites/card_features/mushroom_sprites/fly_agaric.png" id="2_okreg"]
 
 [node name="Card" type="Node2D"]
 script = ExtResource("1_adq8y")
@@ -34,6 +35,21 @@ theme_override_colors/default_color = Color(0, 0, 0, 1)
 bbcode_enabled = true
 text = "[i]Scientific Test[/i]"
 fit_content = true
+
+[node name="MushroomSprite" type="TextureRect" parent="BackgroundColor"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = -13.0
+offset_top = -98.0
+offset_right = 150.0
+offset_bottom = 97.0
+grow_vertical = 2
+texture = ExtResource("2_okreg")
+expand_mode = 1
+stretch_mode = 4
 
 [node name="MushroomItems" type="GridContainer" parent="BackgroundColor"]
 unique_name_in_owner = true

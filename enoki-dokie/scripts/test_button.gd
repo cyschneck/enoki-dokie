@@ -14,7 +14,8 @@ func _on_pressed() -> void:
 						"mica cap", 
 						"birch polypore", 
 						"jack o'lantern",
-						"velvet foot"]
+						"velvet foot"
+						]
 	for card_name in cards_to_make:
 		var mushroom_card = CARD_PREFAB.instantiate()
 		var json_data_dict = card_manager.cards[card_name]

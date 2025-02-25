@@ -1,6 +1,7 @@
 extends Node2D
 
 const DEFAULT_ICON = preload("res://sprites/circle-48.png")
+const DEFAULT_MUSHROOM = preload("res://sprites/card_features/mushroom_sprites/fly_agaric.png")
 const CARD_FEATURES_ICON = "res://sprites/card_features/"
 
 enum CAP_TYPE{CAMPANULATE, CONCICAL, CONVEX, DEPRESSED, FLAT, INFUNDIBULIFORM, OFFSET, OVATE, UMBILLICATE, UMBONATE, NONE, NA}
@@ -14,6 +15,7 @@ enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, IN
 @export var commonName: String = "Common Name"
 @export var scientificName: String = "Scientific Name"
 @export var mushroomDescription: String = "Placeholder Description Text"
+@onready var mushroom_sprite: TextureRect = %MushroomSprite
 
 @export var capType: CAP_TYPE
 @export var ecologicalType: ECOLOGICAL_TYPE
@@ -72,6 +74,16 @@ func _ready() -> void:
 			"StipeType":
 				item.texture = DEFAULT_ICON
 				item.get_child(0).texture = load(CARD_FEATURES_ICON + "stipeType_" + STIPE_TYPE.keys()[stipeType].to_lower() + ".png")
+
+	mushroom_sprite.texture = DEFAULT_MUSHROOM
+	match commonName:
+		"Birch Polypore": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/birch_polypore.png")
+		"Death Cap": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/death_cap.png")
+		"Dryad's Saddle": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/dyrads_saddle.png")
+		"Fly Agaric": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/fly_agaric.png")
+		"Jack O'lantern": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/jack_o_lantern.png")
+		"Mica Cap": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/mica_cap.png")
+		"Velvet Foot": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/velvet_foot.png")
 
 func set_card_characteristics(mushroom_name: String, mushroom_card: Object, json_data_dict: Dictionary):
 	mushroom_card.name = mushroom_name.capitalize()
