@@ -1,15 +1,27 @@
-[gd_scene load_steps=4 format=3 uid="uid://bekpntneif28c"]
+[gd_scene load_steps=5 format=3 uid="uid://bekpntneif28c"]
 
 [ext_resource type="Script" path="res://scripts/card.gd" id="1_adq8y"]
 [ext_resource type="Texture2D" uid="uid://cv26evckgfc6u" path="res://sprites/circle-48.png" id="1_mrost"]
 [ext_resource type="Texture2D" uid="uid://dy6rqfgm341uh" path="res://sprites/card_features/mushroom_sprites/fly_agaric.png" id="2_okreg"]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2ljo7"]
+size = Vector2(248, 360)
+
 [node name="Card" type="Node2D"]
 script = ExtResource("1_adq8y")
 
 [node name="BackgroundColor" type="ColorRect" parent="."]
-offset_right = 250.0
-offset_bottom = 360.0
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -125.0
+offset_top = -180.0
+offset_right = 125.0
+offset_bottom = 180.0
+grow_horizontal = 2
+grow_vertical = 2
 color = Color(0.360784, 0.25098, 0.2, 1)
 
 [node name="CommonName" type="RichTextLabel" parent="BackgroundColor"]
@@ -167,7 +179,7 @@ grow_vertical = 2
 expand_mode = 1
 flip_v = true
 
-[node name="ColorRect" type="ColorRect" parent="BackgroundColor"]
+[node name="DescriptionBackground" type="ColorRect" parent="BackgroundColor"]
 layout_mode = 2
 anchor_left = 0.12
 anchor_top = 0.769444
@@ -178,7 +190,7 @@ grow_vertical = 0
 color = Color(0.466667, 0.403922, 0.329412, 1)
 metadata/_edit_use_anchors_ = true
 
-[node name="Description" type="RichTextLabel" parent="BackgroundColor/ColorRect"]
+[node name="Description" type="RichTextLabel" parent="BackgroundColor/DescriptionBackground"]
 unique_name_in_owner = true
 layout_mode = 1
 anchors_preset = 14
@@ -197,3 +209,8 @@ bbcode_enabled = true
 text = "[center] [i] Placeholder Descirption Text
  [/i] [/center]"
 fit_content = true
+
+[node name="CardArea2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CardArea2D"]
+shape = SubResource("RectangleShape2D_2ljo7")
