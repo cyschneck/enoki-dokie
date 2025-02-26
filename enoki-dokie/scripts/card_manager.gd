@@ -3,6 +3,7 @@ extends Node2D
 var cards: Dictionary
 
 const MUSHROOM_JSON_DATA = "res://data/mushroom_data.json"
+const CARD = preload("res://scenes/card.tscn") # temp
 
 var card_being_dragged: Node2D
 
@@ -11,14 +12,12 @@ func _ready() -> void:
 
 func _process(_delta: float) -> void:
 	if card_being_dragged:
-		#var mouse_position = to_local(get_global_mouse_position())
-		var mouse_position = to_local(get_viewport().get_mouse_position())
-		card_being_dragged.position = mouse_position
+		var mouse_position = get_viewport().get_mouse_position()
+		card_being_dragged.global_position = mouse_position
 
 ## CARD INTERACTION
 func _input(event):
 	if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT:
-		#event = make_input_local(event)
 		if event.pressed:
 			# prsesed
 			var card = raycast_check_for_card()

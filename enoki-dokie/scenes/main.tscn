@@ -20,6 +20,7 @@ script = ExtResource("1_xhe5c")
 
 [node name="Hand" type="Node2D" parent="CardManager"]
 unique_name_in_owner = true
+position = Vector2(317, 451)
 script = ExtResource("2_0v8r3")
 
 [node name="DeathCap" parent="CardManager/Hand" instance=ExtResource("1_6cfgi")]
@@ -43,6 +44,7 @@ sporeColor = 5
 
 [node name="Deck" type="Node2D" parent="CardManager"]
 unique_name_in_owner = true
+position = Vector2(1071, 476)
 script = ExtResource("2_yqnmy")
 
 [node name="DeathCap" parent="CardManager/Deck" instance=ExtResource("1_6cfgi")]
