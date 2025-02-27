@@ -25,8 +25,9 @@ size_flags_vertical = 3
 color = Color(0.228734, 0.353555, 0.275762, 1)
 metadata/_edit_lock_ = true
 
-[node name="CardManager" type="Control" parent="MainCanvas" groups=["ui_layer"]]
+[node name="CardManager" type="Control" parent="MainCanvas"]
 unique_name_in_owner = true
+z_index = 1
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
@@ -53,7 +54,7 @@ offset_bottom = 495.0
 grow_vertical = 0
 script = ExtResource("2_0v8r3")
 
-[node name="HBoxContainer" type="HBoxContainer" parent="MainCanvas/CardManager/Hand"]
+[node name="HBoxContainer" type="HBoxContainer" parent="MainCanvas/CardManager/Hand" groups=["ui_layer"]]
 layout_mode = 0
 offset_right = 1253.0
 offset_bottom = 360.0
@@ -115,6 +116,7 @@ position = Vector2(640, 144)
 shape = SubResource("RectangleShape2D_7qnnk")
 
 [node name="TestButton" type="Button" parent="MainCanvas"]
+z_index = 1
 anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
