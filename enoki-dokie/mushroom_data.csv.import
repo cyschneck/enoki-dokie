@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://du4d0xvcgox5q"
+
+[deps]
+
+files=["res://mushroom_data.scientific name.translation", "res://mushroom_data.hymenium type.translation", "res://mushroom_data.cap shape.translation", "res://mushroom_data.gill type.translation", "res://mushroom_data.stipe type.translation", "res://mushroom_data.spore color.translation", "res://mushroom_data.ecological type.translation", "res://mushroom_data.edible.translation", "res://mushroom_data.description.translation"]
+
+source_file="res://mushroom_data.csv"
+dest_files=["res://mushroom_data.scientific name.translation", "res://mushroom_data.hymenium type.translation", "res://mushroom_data.cap shape.translation", "res://mushroom_data.gill type.translation", "res://mushroom_data.stipe type.translation", "res://mushroom_data.spore color.translation", "res://mushroom_data.ecological type.translation", "res://mushroom_data.edible.translation", "res://mushroom_data.description.translation"]
+
+[params]
+
+compress=true
+delimiter=0

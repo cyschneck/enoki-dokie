@@ -1,4 +1,5 @@
-extends Node2D
+class_name Card
+extends Control
 
 const DEFAULT_ICON = preload("res://sprites/circle-48.png")
 const DEFAULT_MUSHROOM = preload("res://sprites/card_features/mushroom_sprites/fly_agaric.png")
@@ -30,7 +31,34 @@ enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, IN
 @onready var science_name: RichTextLabel = %ScienceName
 @onready var description: RichTextLabel = %Description
 
+# state machine features
+signal reparent_requested(which_card: Card)
+@onready var color: ColorRect = $BackgroundColor # temp
+@onready var drop_point_detector: Area2D = $DropPointDetector
+@export var state: String = "Base"
+@onready var card_state_machine: CardStateMachine = $CardStateMachine as CardStateMachine
+
 func _ready() -> void:
+	# set up card state machine
+	card_state_machine.init(self)
+	
+	# populate features on the card
+	set_features_on_card()
+
+func _input(event: InputEvent) -> void:
+	card_state_machine.on_input(event)
+
+func _on_gui_input(event: InputEvent) -> void:
+	card_state_machine.on_gui_input(event)
+
+func _on_mouse_entered() -> void:
+	card_state_machine.on_mouse_entered()
+
+func _on_mouse_exited() -> void:
+	card_state_machine.on_mouse_exited()
+
+func set_features_on_card() -> void:
+	# set card features
 	common_name.text = "[b]" + commonName + "[/b]"
 	science_name.text = "[i]" + scientificName + "[/i]"
 	description.text = "[center][i]" + mushroomDescription + "[/i][/center]"
@@ -79,7 +107,7 @@ func _ready() -> void:
 	match commonName:
 		"Birch Polypore": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/birch_polypore.png")
 		"Death Cap": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/death_cap.png")
-		"Dryad's Saddle": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/dyrads_saddle.png")
+		"Dryad's Saddle": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/dryads_saddle.png")
 		"Fly Agaric": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/fly_agaric.png")
 		"Jack O'lantern": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/jack_o_lantern.png")
 		"Mica Cap": mushroom_sprite.texture = load(CARD_FEATURES_ICON + "/mushroom_sprites/mica_cap.png")

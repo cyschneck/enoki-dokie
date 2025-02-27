@@ -1,7 +1,7 @@
 extends Button
 
-@onready var deck: Node2D = %Deck
-@onready var hand: Node2D = %Hand
+@onready var deck: Control = %Deck
+@onready var hand: Control = %Hand
 
 func _on_pressed() -> void:
 	# create new testing cards when button is pressed
