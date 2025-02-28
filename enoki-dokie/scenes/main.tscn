@@ -8,7 +8,7 @@
 [ext_resource type="Script" path="res://scripts/hand_cards.gd" id="3_dhn5e"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7qnnk"]
-size = Vector2(1280, 288)
+size = Vector2(1280, 233)
 
 [node name="Main" type="Node2D"]
 
@@ -26,22 +26,64 @@ size_flags_vertical = 3
 color = Color(0.228734, 0.353555, 0.275762, 1)
 metadata/_edit_lock_ = true
 
-[node name="CardManager" type="Control" parent="MainCanvas" groups=["ui_layer"]]
+[node name="Enemy" type="Control" parent="MainCanvas"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="CardManager" type="Control" parent="MainCanvas/Enemy"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Hand" type="Control" parent="MainCanvas/Enemy/CardManager"]
+layout_mode = 1
+anchors_preset = 0
+
+[node name="EnemyHandCards" type="HBoxContainer" parent="MainCanvas/Enemy/CardManager/Hand"]
+layout_mode = 1
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = 149.0
+offset_top = 10.0
+offset_right = 1402.0
+offset_bottom = 370.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.6, 0.6)
+theme_override_constants/separation = 30
+
+[node name="Card" parent="MainCanvas/Enemy/CardManager/Hand/EnemyHandCards" instance=ExtResource("1_6cfgi")]
+layout_mode = 2
+
+[node name="Card2" parent="MainCanvas/Enemy/CardManager/Hand/EnemyHandCards" instance=ExtResource("1_6cfgi")]
+layout_mode = 2
+
+[node name="Player" type="Control" parent="MainCanvas"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="CardManager" type="Control" parent="MainCanvas/Player" groups=["ui_layer"]]
 unique_name_in_owner = true
 z_index = 1
-layout_mode = 3
+layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_right = -1280.0
-offset_bottom = -720.0
+offset_right = -40.0
+offset_bottom = -40.0
 grow_horizontal = 2
 grow_vertical = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
 script = ExtResource("1_xhe5c")
 
-[node name="Hand" type="Control" parent="MainCanvas/CardManager"]
+[node name="Hand" type="Control" parent="MainCanvas/Player/CardManager"]
 unique_name_in_owner = true
 z_index = 1
 layout_mode = 1
@@ -55,7 +97,7 @@ offset_bottom = 495.0
 grow_vertical = 0
 script = ExtResource("2_0v8r3")
 
-[node name="HandCards" type="HBoxContainer" parent="MainCanvas/CardManager/Hand" groups=["ui_layer"]]
+[node name="HandCards" type="HBoxContainer" parent="MainCanvas/Player/CardManager/Hand" groups=["ui_layer"]]
 layout_mode = 0
 offset_right = 1253.0
 offset_bottom = 360.0
@@ -64,19 +106,19 @@ theme_override_constants/separation = 30
 alignment = 1
 script = ExtResource("3_dhn5e")
 
-[node name="Card" parent="MainCanvas/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
+[node name="Card" parent="MainCanvas/Player/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
 layout_mode = 2
 
-[node name="Card2" parent="MainCanvas/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
+[node name="Card2" parent="MainCanvas/Player/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
 layout_mode = 2
 
-[node name="Card3" parent="MainCanvas/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
+[node name="Card3" parent="MainCanvas/Player/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
 layout_mode = 2
 
-[node name="Card4" parent="MainCanvas/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
+[node name="Card4" parent="MainCanvas/Player/CardManager/Hand/HandCards" instance=ExtResource("1_6cfgi")]
 layout_mode = 2
 
-[node name="Deck" type="Control" parent="MainCanvas/CardManager"]
+[node name="Deck" type="Control" parent="MainCanvas/Player/CardManager"]
 unique_name_in_owner = true
 z_index = 1
 layout_mode = 1
@@ -93,7 +135,7 @@ grow_horizontal = 0
 grow_vertical = 0
 script = ExtResource("2_yqnmy")
 
-[node name="Card" parent="MainCanvas/CardManager/Deck" instance=ExtResource("1_6cfgi")]
+[node name="Card" parent="MainCanvas/Player/CardManager/Deck" instance=ExtResource("1_6cfgi")]
 layout_mode = 1
 offset_right = 250.0
 offset_bottom = 360.0
@@ -112,11 +154,12 @@ grow_horizontal = 2
 grow_vertical = 2
 
 [node name="CardSlotBackground" type="ColorRect" parent="MainCanvas/CardSlot"]
-custom_minimum_size = Vector2(1280, 288)
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+offset_top = -83.0
+offset_bottom = 150.0
 grow_horizontal = 2
 grow_vertical = 2
 size_flags_horizontal = 3
@@ -126,16 +169,16 @@ color = Color(0.12549, 0.203922, 0.152941, 0.556863)
 [node name="CardSlots" type="HBoxContainer" parent="MainCanvas/CardSlot/CardSlotBackground" groups=["ui_layer"]]
 layout_mode = 1
 anchors_preset = -1
-anchor_top = -0.0833333
+anchor_top = -0.154185
 anchor_right = 1.0
-anchor_bottom = 1.17708
+anchor_bottom = 1.43172
 offset_left = 195.0
 offset_top = 42.0
 offset_right = 195.0
 offset_bottom = 42.0
 grow_horizontal = 2
 grow_vertical = 2
-scale = Vector2(0.7, 0.7)
+scale = Vector2(0.6, 0.6)
 theme_override_constants/separation = 15
 alignment = 1
 metadata/_edit_use_anchors_ = true
@@ -144,7 +187,7 @@ metadata/_edit_use_anchors_ = true
 collision_layer = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="MainCanvas/CardSlot/CardSlotBackground/CardDropArea"]
-position = Vector2(640, 144)
+position = Vector2(640, 112.5)
 shape = SubResource("RectangleShape2D_7qnnk")
 
 [node name="TestButton" type="Button" parent="MainCanvas"]
