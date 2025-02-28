@@ -3,11 +3,11 @@ extends Control
 @onready var hand: Control = %Hand
 @onready var deck: Control = %Deck
 
-@export var hand_size = 4
+@export var hand_size = 3
 
-func _ready() -> void:
+func _ready():
 	# clear temporary cards
-	for card in hand.get_child(0).get_children():
+	for card in get_child(0).get_children():
 		card.queue_free()
 
 func populate_hand_from_deck() -> void:

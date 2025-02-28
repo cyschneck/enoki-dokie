@@ -4,9 +4,9 @@ func enter() -> void:
 	# wait until node is ready
 	if not card.is_node_ready():
 		await card.ready
+
 	card.reparent_requested.emit(card)
 	card.color.color = Color.WEB_GREEN
-	card.state = "BASE"
 	card.pivot_offset = Vector2(0,0)
 
 func on_gui_input(event: InputEvent) -> void:

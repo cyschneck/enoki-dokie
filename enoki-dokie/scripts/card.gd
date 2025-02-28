@@ -35,7 +35,6 @@ enum EDIBLE_TYPE{POISONOUS, PSYCHOACTIVE, CHOICE, DEADLY, EDIBLE, ALLERGENIC, IN
 signal reparent_requested(which_card: Card)
 @onready var color: ColorRect = $BackgroundColor # temp
 @onready var drop_point_detector: Area2D = $DropPointDetector
-@export var state: String = "Base"
 @onready var card_state_machine: CardStateMachine = $CardStateMachine as CardStateMachine
 
 func _ready() -> void:
