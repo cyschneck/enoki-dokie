@@ -8,7 +8,7 @@
 [ext_resource type="Script" path="res://scripts/hand_cards.gd" id="3_dhn5e"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7qnnk"]
-size = Vector2(1270, 288)
+size = Vector2(1280, 288)
 
 [node name="Main" type="Node2D"]
 
@@ -25,12 +25,6 @@ size_flags_horizontal = 3
 size_flags_vertical = 3
 color = Color(0.228734, 0.353555, 0.275762, 1)
 metadata/_edit_lock_ = true
-
-[node name="MousePosition" type="Control" parent="MainCanvas"]
-layout_mode = 3
-anchors_preset = 0
-offset_right = 40.0
-offset_bottom = 40.0
 
 [node name="CardManager" type="Control" parent="MainCanvas" groups=["ui_layer"]]
 unique_name_in_owner = true
@@ -84,7 +78,6 @@ layout_mode = 2
 
 [node name="Deck" type="Control" parent="MainCanvas/CardManager"]
 unique_name_in_owner = true
-visible = false
 z_index = 1
 layout_mode = 1
 anchors_preset = 3
@@ -109,21 +102,21 @@ scale = Vector2(0.6, 0.6)
 [node name="CardSlot" type="Control" parent="MainCanvas"]
 unique_name_in_owner = true
 layout_mode = 3
-anchors_preset = 0
-offset_top = 158.0
-offset_right = 40.0
-offset_bottom = 198.0
-
-[node name="CardSlotBackground" type="ColorRect" parent="MainCanvas/CardSlot"]
-custom_minimum_size = Vector2(1280, 288)
-layout_mode = 1
 anchors_preset = 14
 anchor_top = 0.5
 anchor_right = 1.0
 anchor_bottom = 0.5
-offset_top = -20.0
-offset_right = 1240.0
-offset_bottom = 268.0
+offset_top = -30.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CardSlotBackground" type="ColorRect" parent="MainCanvas/CardSlot"]
+custom_minimum_size = Vector2(1280, 288)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 size_flags_horizontal = 3
@@ -132,12 +125,20 @@ color = Color(0.12549, 0.203922, 0.152941, 0.556863)
 
 [node name="CardSlots" type="HBoxContainer" parent="MainCanvas/CardSlot/CardSlotBackground" groups=["ui_layer"]]
 layout_mode = 1
-anchors_preset = 15
+anchors_preset = -1
+anchor_top = -0.0833333
 anchor_right = 1.0
-anchor_bottom = 1.0
+anchor_bottom = 1.17708
+offset_left = 195.0
+offset_top = 42.0
+offset_right = 195.0
+offset_bottom = 42.0
 grow_horizontal = 2
 grow_vertical = 2
+scale = Vector2(0.7, 0.7)
+theme_override_constants/separation = 15
 alignment = 1
+metadata/_edit_use_anchors_ = true
 
 [node name="CardDropArea" type="Area2D" parent="MainCanvas/CardSlot/CardSlotBackground"]
 collision_layer = 2
@@ -152,9 +153,9 @@ anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
 offset_left = -230.0
-offset_top = 83.0
+offset_top = 111.0
 offset_right = -62.0
-offset_bottom = 114.0
+offset_bottom = 142.0
 grow_horizontal = 0
 text = "Generate New Cards"
 script = ExtResource("2_xmf1o")

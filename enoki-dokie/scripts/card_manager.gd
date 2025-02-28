@@ -18,4 +18,3 @@ func load_json_data(file_path: String):
 
 func get_mushroom_data():
 	return cards
-###
