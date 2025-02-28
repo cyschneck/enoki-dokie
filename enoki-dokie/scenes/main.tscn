@@ -167,6 +167,7 @@ size_flags_vertical = 3
 color = Color(0.12549, 0.203922, 0.152941, 0.556863)
 
 [node name="CardSlots" type="HBoxContainer" parent="MainCanvas/CardSlot/CardSlotBackground" groups=["ui_layer"]]
+unique_name_in_owner = true
 layout_mode = 1
 anchors_preset = -1
 anchor_top = -0.154185
