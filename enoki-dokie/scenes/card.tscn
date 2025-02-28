@@ -10,7 +10,7 @@
 [ext_resource type="Script" path="res://scripts/card_states/card_released_state.gd" id="8_8xvin"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_bnyma"]
-size = Vector2(250, 360)
+size = Vector2(137, 152)
 
 [node name="Card" type="Control"]
 custom_minimum_size = Vector2(250, 360)
@@ -224,7 +224,7 @@ fit_content = true
 collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="DropPointDetector"]
-position = Vector2(125, 180)
+position = Vector2(123.5, 192)
 shape = SubResource("RectangleShape2D_bnyma")
 
 [node name="CardStateMachine" type="Node" parent="." node_paths=PackedStringArray("initial_state")]
