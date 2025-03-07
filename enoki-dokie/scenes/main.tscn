@@ -1,11 +1,11 @@
 [gd_scene load_steps=8 format=3 uid="uid://b8fivjwhsyau0"]
 
 [ext_resource type="PackedScene" uid="uid://bekpntneif28c" path="res://scenes/card.tscn" id="1_6cfgi"]
-[ext_resource type="Script" path="res://scripts/card_manager.gd" id="1_xhe5c"]
-[ext_resource type="Script" path="res://scripts/hand.gd" id="2_0v8r3"]
-[ext_resource type="Script" path="res://scripts/test_button.gd" id="2_xmf1o"]
-[ext_resource type="Script" path="res://scripts/deck.gd" id="2_yqnmy"]
-[ext_resource type="Script" path="res://scripts/hand_cards.gd" id="3_dhn5e"]
+[ext_resource type="Script" uid="uid://bbykd2psh66ce" path="res://scripts/card_manager.gd" id="1_xhe5c"]
+[ext_resource type="Script" uid="uid://bm5sbki31jorp" path="res://scripts/hand.gd" id="2_0v8r3"]
+[ext_resource type="Script" uid="uid://dm0tsb6rirshe" path="res://scripts/test_button.gd" id="2_xmf1o"]
+[ext_resource type="Script" uid="uid://bj7sx1sm8u42a" path="res://scripts/deck.gd" id="2_yqnmy"]
+[ext_resource type="Script" uid="uid://54oybusilf0g" path="res://scripts/hand_cards.gd" id="3_dhn5e"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7qnnk"]
 size = Vector2(1280, 233)

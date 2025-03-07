@@ -1,6 +1,6 @@
 extends Control
 
-var cards: Dictionary
+var cards: Dictionary = {}
 
 const MUSHROOM_JSON_DATA = "res://data/mushroom_data.json"
 @onready var hand: Control = %Hand

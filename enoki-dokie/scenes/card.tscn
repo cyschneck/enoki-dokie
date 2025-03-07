@@ -1,13 +1,13 @@
 [gd_scene load_steps=10 format=3 uid="uid://bekpntneif28c"]
 
-[ext_resource type="Script" path="res://scripts/card.gd" id="1_adq8y"]
+[ext_resource type="Script" uid="uid://b7utofrnh8u8e" path="res://scripts/card.gd" id="1_adq8y"]
 [ext_resource type="Texture2D" uid="uid://cv26evckgfc6u" path="res://sprites/circle-48.png" id="1_mrost"]
 [ext_resource type="Texture2D" uid="uid://dy6rqfgm341uh" path="res://sprites/card_features/mushroom_sprites/fly_agaric.png" id="2_okreg"]
-[ext_resource type="Script" path="res://scripts/card_state_machine.gd" id="4_0uxoj"]
-[ext_resource type="Script" path="res://scripts/card_states/card_base_state.gd" id="5_qgxdw"]
-[ext_resource type="Script" path="res://scripts/card_states/card_clicked_state.gd" id="6_w2ktg"]
-[ext_resource type="Script" path="res://scripts/card_states/card_dragging_state.gd" id="7_sd1wo"]
-[ext_resource type="Script" path="res://scripts/card_states/card_released_state.gd" id="8_8xvin"]
+[ext_resource type="Script" uid="uid://b0phw3qbj0v5n" path="res://scripts/card_state_machine.gd" id="4_0uxoj"]
+[ext_resource type="Script" uid="uid://b7vjqu2w6rhlk" path="res://scripts/card_states/card_base_state.gd" id="5_qgxdw"]
+[ext_resource type="Script" uid="uid://bvo88ktn2f7gw" path="res://scripts/card_states/card_clicked_state.gd" id="6_w2ktg"]
+[ext_resource type="Script" uid="uid://daisn5kykvajb" path="res://scripts/card_states/card_dragging_state.gd" id="7_sd1wo"]
+[ext_resource type="Script" uid="uid://q7hatoxx3ajy" path="res://scripts/card_states/card_released_state.gd" id="8_8xvin"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_bnyma"]
 size = Vector2(137, 152)

@@ -10,7 +10,7 @@ func enter() -> void:
 	var ui_layer := get_tree().get_nodes_in_group("ui_layer")
 	card.reparent(ui_layer[0])
 
-	card.scale = Vector2(1, 1)
+	card.scale = Vector2(0.8, 0.8)
 	card.color.color = Color.NAVY_BLUE
 
 	# set min time to stay in dragging state
