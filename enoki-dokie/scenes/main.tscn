@@ -8,7 +8,7 @@
 [ext_resource type="Script" uid="uid://54oybusilf0g" path="res://scripts/hand_cards.gd" id="3_dhn5e"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7qnnk"]
-size = Vector2(408, 237)
+size = Vector2(410, 233)
 
 [node name="Main" type="Node2D"]
 
@@ -148,9 +148,9 @@ anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-offset_left = -199.0
+offset_left = -190.0
 offset_top = -30.0
-offset_right = -199.0
+offset_right = -190.0
 offset_bottom = -30.0
 grow_horizontal = 2
 grow_vertical = 2
@@ -170,13 +170,13 @@ size_flags_horizontal = 3
 size_flags_vertical = 3
 color = Color(0.12549, 0.203922, 0.152941, 0.556863)
 
-[node name="CardSlots1" type="HBoxContainer" parent="MainCanvas/CardSlot1/CardSlotBackground" groups=["ui_layer"]]
+[node name="CardSlots" type="HBoxContainer" parent="MainCanvas/CardSlot1/CardSlotBackground" groups=["ui_layer"]]
 layout_mode = 1
 anchors_preset = -1
-anchor_left = -0.485149
-anchor_top = -0.193133
-anchor_right = 1.19802
-anchor_bottom = 1.45923
+anchor_left = -0.47561
+anchor_top = -0.180258
+anchor_right = 1.18293
+anchor_bottom = 1.48498
 offset_left = 195.0
 offset_top = 42.0
 offset_right = 195.0
@@ -192,7 +192,7 @@ metadata/_edit_use_anchors_ = true
 collision_layer = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="MainCanvas/CardSlot1/CardSlotBackground/CardDropArea1"]
-position = Vector2(204, 114.5)
+position = Vector2(205, 116.5)
 shape = SubResource("RectangleShape2D_7qnnk")
 
 [node name="CardSlot2" type="Control" parent="MainCanvas"]
@@ -216,7 +216,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 offset_left = -283.0
 offset_top = -83.0
-offset_right = 126.0
+offset_right = 127.0
 offset_bottom = 150.0
 grow_horizontal = 2
 grow_vertical = 2
@@ -224,13 +224,13 @@ size_flags_horizontal = 3
 size_flags_vertical = 3
 color = Color(0.12549, 0.203922, 0.152941, 0.556863)
 
-[node name="CardSlots2" type="HBoxContainer" parent="MainCanvas/CardSlot2/CardSlotBackground" groups=["ui_layer"]]
+[node name="CardSlots" type="HBoxContainer" parent="MainCanvas/CardSlot2/CardSlotBackground" groups=["ui_layer"]]
 layout_mode = 1
 anchors_preset = -1
-anchor_left = -0.485149
-anchor_top = -0.193133
-anchor_right = 1.19802
-anchor_bottom = 1.45923
+anchor_left = -0.47561
+anchor_top = -0.180258
+anchor_right = 1.18293
+anchor_bottom = 1.48498
 offset_left = 195.0
 offset_top = 42.0
 offset_right = 195.0
@@ -246,7 +246,7 @@ metadata/_edit_use_anchors_ = true
 collision_layer = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="MainCanvas/CardSlot2/CardSlotBackground/CardDropArea2"]
-position = Vector2(204, 114.5)
+position = Vector2(205, 116.5)
 shape = SubResource("RectangleShape2D_7qnnk")
 
 [node name="TestButton" type="Button" parent="MainCanvas"]
